@@ -1,266 +1,266 @@
 Vaccine/Exemption,Dose,Geography Type,Geography,School Year,Estimate (%),Population Size,Percent Surveyed,Number of Exemptions,Survey Type,Year
-"Varicella, unknown disease history",1 Dose,States,Alabama,2016-17,93.8,58394.0,100.0,,Census,2016
-"Varicella, unknown disease history",1 Dose,States,Arizona,2016-17,96.7,83627.0,100.0,,Census,2016
-"Varicella, unknown disease history",1 Dose,States,California,2016-17,98.5,575305.0,97.8,,Census,2016
-"Varicella, unknown disease history",1 Dose,States,Hawaii,2016-17,95.3,16325.0,6.7,,Stratified 2-stage cluster sample,2016
-"Varicella, unknown disease history",1 Dose,States,Maine,2016-17,96.7,13834.0,90.1,,Voluntary response (public). census (private),2016
-"Varicella, unknown disease history",1 Dose,States,New Jersey,2016-17,96.5,109577.0,100.0,,Census,2016
-"Varicella, unknown disease history",1 Dose,States,Oklahoma,2016-17,,52184.0,0.0,,Census,2016
-"Varicella, unknown disease history",1 Dose,States,Oregon,2016-17,95.0,45705.0,100.0,,Census,2016
+"Varicella, unknown disease history",1 Dose,States,Alabama,2016-17,93.8,58394.00,100,,Census,2016
+"Varicella, unknown disease history",1 Dose,States,Arizona,2016-17,96.7,83627.00,100,,Census,2016
+"Varicella, unknown disease history",1 Dose,States,California,2016-17,98.5,575305.00,97.8,,Census,2016
+"Varicella, unknown disease history",1 Dose,States,Hawaii,2016-17,95.3,16325.00,6.7,,Stratified 2-stage cluster sample,2016
+"Varicella, unknown disease history",1 Dose,States,Maine,2016-17,96.7,13834.00,90.1,,Voluntary response (public). census (private),2016
+"Varicella, unknown disease history",1 Dose,States,New Jersey,2016-17,96.5,109577.00,100,,Census,2016
+"Varicella, unknown disease history",1 Dose,States,Oklahoma,2016-17,,52184.00,0,,Census,2016
+"Varicella, unknown disease history",1 Dose,States,Oregon,2016-17,95,45705.00,100,,Census,2016
 "Varicella, unknown disease history",1 Dose,National,United States,2016-17,97.5,,,,,2016
 "Varicella, unknown disease history",1 Dose,National,U.S. Median,2016-17,96.5,,,,,2016
 "Varicella, unknown disease history",1 Dose,States,Wyoming,2016-17,,,,,Not conducted,2016
-"Varicella, unknown disease history",1 Dose,States,Alabama,2017-18,92.7,57245.0,100.0,,Census,2017
-"Varicella, unknown disease history",1 Dose,States,Arizona,2017-18,96.2,81710.0,100.0,,Census,2017
-"Varicella, unknown disease history",1 Dose,States,California,2017-18,98.2,574702.0,100.0,,Census,2017
-"Varicella, unknown disease history",1 Dose,States,Hawaii,2017-18,96.2,16325.0,6.6,,Stratified 2-stage cluster sample,2017
-"Varicella, unknown disease history",1 Dose,States,Maine,2017-18,96.5,13255.0,95.9,,Census ,2017
-"Varicella, unknown disease history",1 Dose,States,New Jersey,2017-18,96.1,107630.0,100.0,,Census,2017
-"Varicella, unknown disease history",1 Dose,States,Oklahoma,2017-18,96.8,53898.0,92.1,,Census (public). voluntary response (private),2017
-"Varicella, unknown disease history",1 Dose,States,Oregon,2017-18,94.4,45818.0,100.0,,Census,2017
+"Varicella, unknown disease history",1 Dose,States,Alabama,2017-18,92.7,57245.00,100,,Census,2017
+"Varicella, unknown disease history",1 Dose,States,Arizona,2017-18,96.2,81710.00,100,,Census,2017
+"Varicella, unknown disease history",1 Dose,States,California,2017-18,98.2,574702.00,100,,Census,2017
+"Varicella, unknown disease history",1 Dose,States,Hawaii,2017-18,96.2,16325.00,6.6,,Stratified 2-stage cluster sample,2017
+"Varicella, unknown disease history",1 Dose,States,Maine,2017-18,96.5,13255.00,95.9,,Census ,2017
+"Varicella, unknown disease history",1 Dose,States,New Jersey,2017-18,96.1,107630.00,100,,Census,2017
+"Varicella, unknown disease history",1 Dose,States,Oklahoma,2017-18,96.8,53898.00,92.1,,Census (public). voluntary response (private),2017
+"Varicella, unknown disease history",1 Dose,States,Oregon,2017-18,94.4,45818.00,100,,Census,2017
 "Varicella, unknown disease history",1 Dose,National,United States,2017-18,97.1,,,,,2017
 "Varicella, unknown disease history",1 Dose,National,U.S. Median,2017-18,96.2,,,,,2017
 "Varicella, unknown disease history",1 Dose,States,Wyoming,2017-18,,,,,Not conducted ,2017
-"Varicella, unknown disease history",1 Dose,States,Alabama,2018-19,90.6,77739.0,100.0,,Census,2018
-"Varicella, unknown disease history",1 Dose,States,Arizona,2018-19,95.6,79981.0,100.0,,Census,2018
-"Varicella, unknown disease history",1 Dose,States,California,2018-19,97.9,568947.0,97.7,,Census,2018
-"Varicella, unknown disease history",1 Dose,States,Hawaii,2018-19,94.0,16051.0,6.7,,Stratified 2-stage cluster sample,2018
-"Varicella, unknown disease history",1 Dose,States,Maine,2018-19,95.9,13419.0,95.9,,Census,2018
-"Varicella, unknown disease history",1 Dose,States,New Jersey,2018-19,95.0,109161.0,100.0,,Census,2018
-"Varicella, unknown disease history",1 Dose,States,Oklahoma,2018-19,95.8,54806.0,92.1,,Census (public). voluntary response (private),2018
-"Varicella, unknown disease history",1 Dose,States,Oregon,2018-19,94.3,45870.0,100.0,,Census,2018
+"Varicella, unknown disease history",1 Dose,States,Alabama,2018-19,90.6,77739.00,100,,Census,2018
+"Varicella, unknown disease history",1 Dose,States,Arizona,2018-19,95.6,79981.00,100,,Census,2018
+"Varicella, unknown disease history",1 Dose,States,California,2018-19,97.9,568947.00,97.7,,Census,2018
+"Varicella, unknown disease history",1 Dose,States,Hawaii,2018-19,94,16051.00,6.7,,Stratified 2-stage cluster sample,2018
+"Varicella, unknown disease history",1 Dose,States,Maine,2018-19,95.9,13419.00,95.9,,Census,2018
+"Varicella, unknown disease history",1 Dose,States,New Jersey,2018-19,95,109161.00,100,,Census,2018
+"Varicella, unknown disease history",1 Dose,States,Oklahoma,2018-19,95.8,54806.00,92.1,,Census (public). voluntary response (private),2018
+"Varicella, unknown disease history",1 Dose,States,Oregon,2018-19,94.3,45870.00,100,,Census,2018
 "Varicella, unknown disease history",1 Dose,National,United States,2018-19,96.4,,,,,2018
 "Varicella, unknown disease history",1 Dose,National,U.S. Median,2018-19,95.3,,,,,2018
-"Varicella, unknown disease history",1 Dose,States,Alabama,2019-20,86.6,59477.0,94.9,,Census,2019
-"Varicella, unknown disease history",1 Dose,States,Alaska,2019-20,NReq,10381.0,82.7,,Voluntary response,2019
-"Varicella, unknown disease history",1 Dose,States,Arizona,2019-20,95.3,83976.0,98.7,,Census (public). voluntary response (private),2019
-"Varicella, unknown disease history",1 Dose,States,Arkansas,2019-20,NReq,39510.0,96.2,,Census (public). voluntary response (private),2019
-"Varicella, unknown disease history",1 Dose,States,California,2019-20,NReq,566155.0,97.9,,Census,2019
-"Varicella, unknown disease history",1 Dose,States,Colorado,2019-20,NReq,69088.0,98.2,,Census,2019
-"Varicella, unknown disease history",1 Dose,States,Connecticut,2019-20,NReq,38888.0,100.0,,Census,2019
-"Varicella, unknown disease history",1 Dose,States,Florida,2019-20,NReq,228298.0,100.0,,Census,2019
-"Varicella, unknown disease history",1 Dose,States,Georgia,2019-20,NReq,130102.0,100.0,,Census,2019
-"Varicella, unknown disease history",1 Dose,States,Hawaii,2019-20,91.8,15695.0,8.9,,Stratified 2-stage cluster sample,2019
-"Varicella, unknown disease history",1 Dose,States,Idaho,2019-20,NReq,23301.0,98.5,,Census,2019
-"Varicella, unknown disease history",1 Dose,States,Illinois,2019-20,NReq,145891.0,100.0,,Census,2019
-"Varicella, unknown disease history",1 Dose,States,Indiana,2019-20,NReq,88253.0,65.7,,Voluntary response,2019
-"Varicella, unknown disease history",1 Dose,States,Iowa,2019-20,NReq,40812.0,100.0,,Census,2019
-"Varicella, unknown disease history",1 Dose,States,Kansas,2019-20,NReq,37865.0,34.3,,Stratified 2-stage cluster sample,2019
-"Varicella, unknown disease history",1 Dose,States,Kentucky,2019-20,NReq,59233.0,92.9,,Census,2019
-"Varicella, unknown disease history",1 Dose,States,Louisiana,2019-20,NReq,59685.0,100.0,,Census,2019
-"Varicella, unknown disease history",1 Dose,States,Maine,2019-20,96.2,13450.0,99.6,,Census ,2019
-"Varicella, unknown disease history",1 Dose,States,Maryland,2019-20,NReq,72443.0,98.3,,Census (public). voluntary response (private),2019
-"Varicella, unknown disease history",1 Dose,States,Massachusetts,2019-20,NReq,66756.0,100.0,,Census,2019
-"Varicella, unknown disease history",1 Dose,States,Michigan,2019-20,NReq,120565.0,100.0,,Census,2019
-"Varicella, unknown disease history",1 Dose,States,Minnesota,2019-20,NReq,71223.0,98.7,,Census,2019
-"Varicella, unknown disease history",1 Dose,States,Mississippi,2019-20,NReq,37870.0,100.0,,Census,2019
-"Varicella, unknown disease history",1 Dose,States,Missouri,2019-20,NReq,72324.0,100.0,,Census,2019
-"Varicella, unknown disease history",1 Dose,States,Montana,2019-20,NReq,12501.0,100.0,,Census,2019
-"Varicella, unknown disease history",1 Dose,States,Nebraska,2019-20,NReq,26893.0,96.7,,Census,2019
-"Varicella, unknown disease history",1 Dose,States,Nevada,2019-20,NReq,37724.0,99.9,,Census,2019
-"Varicella, unknown disease history",1 Dose,States,New Hampshire,2019-20,NReq,12447.0,100.0,,Census,2019
-"Varicella, unknown disease history",1 Dose,States,New Jersey,2019-20,95.9,107900.0,100.0,,Census,2019
-"Varicella, unknown disease history",1 Dose,States,New Mexico,2019-20,NReq,23087.0,100.0,,Census,2019
-"Varicella, unknown disease history",1 Dose,States,New York,2019-20,NReq,234165.0,99.9,,Census,2019
-"Varicella, unknown disease history",1 Dose,States,North Carolina,2019-20,NReq,124548.0,97.8,,Census,2019
-"Varicella, unknown disease history",1 Dose,States,North Dakota,2019-20,NReq,10587.0,99.5,,Census,2019
-"Varicella, unknown disease history",1 Dose,States,Ohio,2019-20,NReq,139103.0,98.8,,Census,2019
-"Varicella, unknown disease history",1 Dose,States,Oklahoma,2019-20,96.9,55348.0,85.6,,Voluntary response,2019
-"Varicella, unknown disease history",1 Dose,States,Oregon,2019-20,94.6,45959.0,100.0,,Census,2019
-"Varicella, unknown disease history",1 Dose,States,Pennsylvania,2019-20,NReq,140197.0,98.8,,Census,2019
+"Varicella, unknown disease history",1 Dose,States,Alabama,2019-20,86.6,59477.00,94.9,,Census,2019
+"Varicella, unknown disease history",1 Dose,States,Alaska,2019-20,NReq,10381.00,82.7,,Voluntary response,2019
+"Varicella, unknown disease history",1 Dose,States,Arizona,2019-20,95.3,83976.00,98.7,,Census (public). voluntary response (private),2019
+"Varicella, unknown disease history",1 Dose,States,Arkansas,2019-20,NReq,39510.00,96.2,,Census (public). voluntary response (private),2019
+"Varicella, unknown disease history",1 Dose,States,California,2019-20,NReq,566155.00,97.9,,Census,2019
+"Varicella, unknown disease history",1 Dose,States,Colorado,2019-20,NReq,69088.00,98.2,,Census,2019
+"Varicella, unknown disease history",1 Dose,States,Connecticut,2019-20,NReq,38888.00,100,,Census,2019
+"Varicella, unknown disease history",1 Dose,States,Florida,2019-20,NReq,228298.00,100,,Census,2019
+"Varicella, unknown disease history",1 Dose,States,Georgia,2019-20,NReq,130102.00,100,,Census,2019
+"Varicella, unknown disease history",1 Dose,States,Hawaii,2019-20,91.8,15695.00,8.9,,Stratified 2-stage cluster sample,2019
+"Varicella, unknown disease history",1 Dose,States,Idaho,2019-20,NReq,23301.00,98.5,,Census,2019
+"Varicella, unknown disease history",1 Dose,States,Illinois,2019-20,NReq,145891.00,100,,Census,2019
+"Varicella, unknown disease history",1 Dose,States,Indiana,2019-20,NReq,88253.00,65.7,,Voluntary response,2019
+"Varicella, unknown disease history",1 Dose,States,Iowa,2019-20,NReq,40812.00,100,,Census,2019
+"Varicella, unknown disease history",1 Dose,States,Kansas,2019-20,NReq,37865.00,34.3,,Stratified 2-stage cluster sample,2019
+"Varicella, unknown disease history",1 Dose,States,Kentucky,2019-20,NReq,59233.00,92.9,,Census,2019
+"Varicella, unknown disease history",1 Dose,States,Louisiana,2019-20,NReq,59685.00,100,,Census,2019
+"Varicella, unknown disease history",1 Dose,States,Maine,2019-20,96.2,13450.00,99.6,,Census ,2019
+"Varicella, unknown disease history",1 Dose,States,Maryland,2019-20,NReq,72443.00,98.3,,Census (public). voluntary response (private),2019
+"Varicella, unknown disease history",1 Dose,States,Massachusetts,2019-20,NReq,66756.00,100,,Census,2019
+"Varicella, unknown disease history",1 Dose,States,Michigan,2019-20,NReq,120565.00,100,,Census,2019
+"Varicella, unknown disease history",1 Dose,States,Minnesota,2019-20,NReq,71223.00,98.7,,Census,2019
+"Varicella, unknown disease history",1 Dose,States,Mississippi,2019-20,NReq,37870.00,100,,Census,2019
+"Varicella, unknown disease history",1 Dose,States,Missouri,2019-20,NReq,72324.00,100,,Census,2019
+"Varicella, unknown disease history",1 Dose,States,Montana,2019-20,NReq,12501.00,100,,Census,2019
+"Varicella, unknown disease history",1 Dose,States,Nebraska,2019-20,NReq,26893.00,96.7,,Census,2019
+"Varicella, unknown disease history",1 Dose,States,Nevada,2019-20,NReq,37724.00,99.9,,Census,2019
+"Varicella, unknown disease history",1 Dose,States,New Hampshire,2019-20,NReq,12447.00,100,,Census,2019
+"Varicella, unknown disease history",1 Dose,States,New Jersey,2019-20,95.9,107900.00,100,,Census,2019
+"Varicella, unknown disease history",1 Dose,States,New Mexico,2019-20,NReq,23087.00,100,,Census,2019
+"Varicella, unknown disease history",1 Dose,States,New York,2019-20,NReq,234165.00,99.9,,Census,2019
+"Varicella, unknown disease history",1 Dose,States,North Carolina,2019-20,NReq,124548.00,97.8,,Census,2019
+"Varicella, unknown disease history",1 Dose,States,North Dakota,2019-20,NReq,10587.00,99.5,,Census,2019
+"Varicella, unknown disease history",1 Dose,States,Ohio,2019-20,NReq,139103.00,98.8,,Census,2019
+"Varicella, unknown disease history",1 Dose,States,Oklahoma,2019-20,96.9,55348.00,85.6,,Voluntary response,2019
+"Varicella, unknown disease history",1 Dose,States,Oregon,2019-20,94.6,45959.00,100,,Census,2019
+"Varicella, unknown disease history",1 Dose,States,Pennsylvania,2019-20,NReq,140197.00,98.8,,Census,2019
 "Varicella, unknown disease history",1 Dose,National,United States,2019-20,94.1,,,,,2019
-"Varicella, unknown disease history",1 Dose,States,Rhode Island,2019-20,NReq,11219.0,98.5,,Census,2019
-"Varicella, unknown disease history",1 Dose,States,South Carolina,2019-20,NReq,65938.0,27.5,,Stratified 1-stage cluster sample,2019
-"Varicella, unknown disease history",1 Dose,States,South Dakota,2019-20,NReq,12367.0,99.8,,Census,2019
-"Varicella, unknown disease history",1 Dose,States,Tennessee,2019-20,NReq,80595.0,100.0,,Census,2019
-"Varicella, unknown disease history",1 Dose,States,Texas,2019-20,NReq,398680.0,99.6,,Census,2019
+"Varicella, unknown disease history",1 Dose,States,Rhode Island,2019-20,NReq,11219.00,98.5,,Census,2019
+"Varicella, unknown disease history",1 Dose,States,South Carolina,2019-20,NReq,65938.00,27.5,,Stratified 1-stage cluster sample,2019
+"Varicella, unknown disease history",1 Dose,States,South Dakota,2019-20,NReq,12367.00,99.8,,Census,2019
+"Varicella, unknown disease history",1 Dose,States,Tennessee,2019-20,NReq,80595.00,100,,Census,2019
+"Varicella, unknown disease history",1 Dose,States,Texas,2019-20,NReq,398680.00,99.6,,Census,2019
 "Varicella, unknown disease history",1 Dose,National,U.S. Median,2019-20,95.3,,,,,2019
-"Varicella, unknown disease history",1 Dose,States,Utah,2019-20,NReq,49208.0,100.0,,Census,2019
-"Varicella, unknown disease history",1 Dose,States,Vermont,2019-20,NReq,6293.0,100.0,,Census,2019
-"Varicella, unknown disease history",1 Dose,States,Virginia,2019-20,NReq,99399.0,1.2,,Stratified 2-stage cluster sample,2019
-"Varicella, unknown disease history",1 Dose,States,Washington,2019-20,NReq,87757.0,91.9,,Census,2019
-"Varicella, unknown disease history",1 Dose,States,West Virginia,2019-20,NReq,17114.0,49.6,,Voluntary response,2019
-"Varicella, unknown disease history",1 Dose,States,Wisconsin,2019-20,NReq,67391.0,2.6,,Stratified 2-stage cluster sample,2019
-"Varicella, unknown disease history",1 Dose,States,Wyoming,2019-20,NReq,7913.0,100.0,,Census,2019
-"Varicella, unknown disease history",2 Doses,States,Alaska,2016-17,88.9,9815.0,7.6,,Stratified 2-stage cluster sample,2016
-"Varicella, unknown disease history",2 Doses,States,Arkansas,2016-17,91.7,39666.0,75.9,,Voluntary response,2016
-"Varicella, unknown disease history",2 Doses,States,Colorado,2016-17,86.1,64440.0,100.0,,Census,2016
-"Varicella, unknown disease history",2 Doses,States,Connecticut,2016-17,96.5,39002.0,100.0,,Census,2016
-"Varicella, unknown disease history",2 Doses,States,Delaware,2016-17,98.2,11490.0,9.3,,Stratified 2-stage cluster sample,2016
-"Varicella, unknown disease history",2 Doses,States,Florida,2016-17,94.1,224463.0,100.0,,Census,2016
-"Varicella, unknown disease history",2 Doses,States,Georgia,2016-17,93.3,136165.0,100.0,,Census,2016
-"Varicella, unknown disease history",2 Doses,States,Idaho,2016-17,89.1,22589.0,100.0,,Census,2016
-"Varicella, unknown disease history",2 Doses,States,Illinois,2016-17,94.5,151309.0,97.7,,Census,2016
-"Varicella, unknown disease history",2 Doses,States,Indiana,2016-17,87.9,83263.0,80.3,,Voluntary response,2016
-"Varicella, unknown disease history",2 Doses,States,Iowa,2016-17,92.6,39587.0,100.0,,Census,2016
-"Varicella, unknown disease history",2 Doses,States,Kansas,2016-17,88.8,38298.0,22.9,,Stratified 2-stage cluster sample,2016
-"Varicella, unknown disease history",2 Doses,States,Kentucky,2016-17,90.4,51487.0,92.9,,Census,2016
-"Varicella, unknown disease history",2 Doses,States,Louisiana,2016-17,96.5,55257.0,100.0,,Census,2016
-"Varicella, unknown disease history",2 Doses,States,Maryland,2016-17,97.6,71467.0,98.1,,Census,2016
-"Varicella, unknown disease history",2 Doses,States,Massachusetts,2016-17,95.7,70109.0,100.0,,Census,2016
-"Varicella, unknown disease history",2 Doses,States,Michigan,2016-17,95.3,118777.0,100.0,,Census,2016
-"Varicella, unknown disease history",2 Doses,States,Minnesota,2016-17,92.3,69140.0,96.7,,Census,2016
-"Varicella, unknown disease history",2 Doses,States,Mississippi,2016-17,99.4,40509.0,100.0,,Census,2016
-"Varicella, unknown disease history",2 Doses,States,Missouri,2016-17,95.1,73355.0,100.0,,Census,2016
-"Varicella, unknown disease history",2 Doses,States,Montana,2016-17,92.9,11956.0,100.0,,Census,2016
-"Varicella, unknown disease history",2 Doses,States,Nebraska,2016-17,95.8,27117.0,100.0,,Census,2016
-"Varicella, unknown disease history",2 Doses,States,Nevada,2016-17,90.5,36885.0,3.7,,Stratified 2-stage cluster sample,2016
-"Varicella, unknown disease history",2 Doses,States,New Hampshire,2016-17,91.5,12145.0,100.0,,Census,2016
-"Varicella, unknown disease history",2 Doses,States,New Mexico,2016-17,94.6,27119.0,4.5,,Stratified 2-stage cluster sample,2016
-"Varicella, unknown disease history",2 Doses,States,New York,2016-17,96.9,227050.0,100.0,,Census,2016
-"Varicella, unknown disease history",2 Doses,States,North Carolina,2016-17,95.9,126454.0,88.2,,Voluntary response,2016
-"Varicella, unknown disease history",2 Doses,States,North Dakota,2016-17,93.5,9799.0,98.7,,Census,2016
-"Varicella, unknown disease history",2 Doses,States,Ohio,2016-17,91.9,137542.0,95.5,,Census,2016
-"Varicella, unknown disease history",2 Doses,States,Pennsylvania,2016-17,94.6,143888.0,84.4,,Voluntary response,2016
+"Varicella, unknown disease history",1 Dose,States,Utah,2019-20,NReq,49208.00,100,,Census,2019
+"Varicella, unknown disease history",1 Dose,States,Vermont,2019-20,NReq,6293.00,100,,Census,2019
+"Varicella, unknown disease history",1 Dose,States,Virginia,2019-20,NReq,99399.00,1.2,,Stratified 2-stage cluster sample,2019
+"Varicella, unknown disease history",1 Dose,States,Washington,2019-20,NReq,87757.00,91.9,,Census,2019
+"Varicella, unknown disease history",1 Dose,States,West Virginia,2019-20,NReq,17114.00,49.6,,Voluntary response,2019
+"Varicella, unknown disease history",1 Dose,States,Wisconsin,2019-20,NReq,67391.00,2.6,,Stratified 2-stage cluster sample,2019
+"Varicella, unknown disease history",1 Dose,States,Wyoming,2019-20,NReq,7913.00,100,,Census,2019
+"Varicella, unknown disease history",2 Doses,States,Alaska,2016-17,88.9,9815.00,7.6,,Stratified 2-stage cluster sample,2016
+"Varicella, unknown disease history",2 Doses,States,Arkansas,2016-17,91.7,39666.00,75.9,,Voluntary response,2016
+"Varicella, unknown disease history",2 Doses,States,Colorado,2016-17,86.1,64440.00,100,,Census,2016
+"Varicella, unknown disease history",2 Doses,States,Connecticut,2016-17,96.5,39002.00,100,,Census,2016
+"Varicella, unknown disease history",2 Doses,States,Delaware,2016-17,98.2,11490.00,9.3,,Stratified 2-stage cluster sample,2016
+"Varicella, unknown disease history",2 Doses,States,Florida,2016-17,94.1,224463.00,100,,Census,2016
+"Varicella, unknown disease history",2 Doses,States,Georgia,2016-17,93.3,136165.00,100,,Census,2016
+"Varicella, unknown disease history",2 Doses,States,Idaho,2016-17,89.1,22589.00,100,,Census,2016
+"Varicella, unknown disease history",2 Doses,States,Illinois,2016-17,94.5,151309.00,97.7,,Census,2016
+"Varicella, unknown disease history",2 Doses,States,Indiana,2016-17,87.9,83263.00,80.3,,Voluntary response,2016
+"Varicella, unknown disease history",2 Doses,States,Iowa,2016-17,92.6,39587.00,100,,Census,2016
+"Varicella, unknown disease history",2 Doses,States,Kansas,2016-17,88.8,38298.00,22.9,,Stratified 2-stage cluster sample,2016
+"Varicella, unknown disease history",2 Doses,States,Kentucky,2016-17,90.4,51487.00,92.9,,Census,2016
+"Varicella, unknown disease history",2 Doses,States,Louisiana,2016-17,96.5,55257.00,100,,Census,2016
+"Varicella, unknown disease history",2 Doses,States,Maryland,2016-17,97.6,71467.00,98.1,,Census,2016
+"Varicella, unknown disease history",2 Doses,States,Massachusetts,2016-17,95.7,70109.00,100,,Census,2016
+"Varicella, unknown disease history",2 Doses,States,Michigan,2016-17,95.3,118777.00,100,,Census,2016
+"Varicella, unknown disease history",2 Doses,States,Minnesota,2016-17,92.3,69140.00,96.7,,Census,2016
+"Varicella, unknown disease history",2 Doses,States,Mississippi,2016-17,99.4,40509.00,100,,Census,2016
+"Varicella, unknown disease history",2 Doses,States,Missouri,2016-17,95.1,73355.00,100,,Census,2016
+"Varicella, unknown disease history",2 Doses,States,Montana,2016-17,92.9,11956.00,100,,Census,2016
+"Varicella, unknown disease history",2 Doses,States,Nebraska,2016-17,95.8,27117.00,100,,Census,2016
+"Varicella, unknown disease history",2 Doses,States,Nevada,2016-17,90.5,36885.00,3.7,,Stratified 2-stage cluster sample,2016
+"Varicella, unknown disease history",2 Doses,States,New Hampshire,2016-17,91.5,12145.00,100,,Census,2016
+"Varicella, unknown disease history",2 Doses,States,New Mexico,2016-17,94.6,27119.00,4.5,,Stratified 2-stage cluster sample,2016
+"Varicella, unknown disease history",2 Doses,States,New York,2016-17,96.9,227050.00,100,,Census,2016
+"Varicella, unknown disease history",2 Doses,States,North Carolina,2016-17,95.9,126454.00,88.2,,Voluntary response,2016
+"Varicella, unknown disease history",2 Doses,States,North Dakota,2016-17,93.5,9799.00,98.7,,Census,2016
+"Varicella, unknown disease history",2 Doses,States,Ohio,2016-17,91.9,137542.00,95.5,,Census,2016
+"Varicella, unknown disease history",2 Doses,States,Pennsylvania,2016-17,94.6,143888.00,84.4,,Voluntary response,2016
 "Varicella, unknown disease history",2 Doses,National,United States,2016-17,94.2,,,,,2016
-"Varicella, unknown disease history",2 Doses,States,Rhode Island,2016-17,94.8,11100.0,98.4,,Census,2016
-"Varicella, unknown disease history",2 Doses,States,South Carolina,2016-17,95.7,59177.0,8.9,,Stratified 1-stage cluster sample,2016
-"Varicella, unknown disease history",2 Doses,States,South Dakota,2016-17,95.4,12106.0,99.8,,Census,2016
-"Varicella, unknown disease history",2 Doses,States,Tennessee,2016-17,96.7,78169.0,100.0,,Census,2016
-"Varicella, unknown disease history",2 Doses,States,Texas,2016-17,96.6,389999.0,99.0,,Census,2016
+"Varicella, unknown disease history",2 Doses,States,Rhode Island,2016-17,94.8,11100.00,98.4,,Census,2016
+"Varicella, unknown disease history",2 Doses,States,South Carolina,2016-17,95.7,59177.00,8.9,,Stratified 1-stage cluster sample,2016
+"Varicella, unknown disease history",2 Doses,States,South Dakota,2016-17,95.4,12106.00,99.8,,Census,2016
+"Varicella, unknown disease history",2 Doses,States,Tennessee,2016-17,96.7,78169.00,100,,Census,2016
+"Varicella, unknown disease history",2 Doses,States,Texas,2016-17,96.6,389999.00,99,,Census,2016
 "Varicella, unknown disease history",2 Doses,National,U.S. Median,2016-17,94.1,,,,,2016
-"Varicella, unknown disease history",2 Doses,States,Utah,2016-17,94.6,49073.0,100.0,,Census,2016
-"Varicella, unknown disease history",2 Doses,States,Vermont,2016-17,92.5,6344.0,100.0,,Census,2016
-"Varicella, unknown disease history",2 Doses,States,Virginia,2016-17,92.7,102357.0,4.0,,Stratified 2-stage cluster sample,2016
-"Varicella, unknown disease history",2 Doses,States,Washington,2016-17,89.3,87142.0,98.2,,Census,2016
-"Varicella, unknown disease history",2 Doses,States,West Virginia,2016-17,92.6,28666.0,66.5,,Census (public). voluntary response (private),2016
-"Varicella, unknown disease history",2 Doses,States,Wisconsin,2016-17,92.8,67607.0,2.2,,Stratified 2-stage cluster sample,2016
+"Varicella, unknown disease history",2 Doses,States,Utah,2016-17,94.6,49073.00,100,,Census,2016
+"Varicella, unknown disease history",2 Doses,States,Vermont,2016-17,92.5,6344.00,100,,Census,2016
+"Varicella, unknown disease history",2 Doses,States,Virginia,2016-17,92.7,102357.00,4,,Stratified 2-stage cluster sample,2016
+"Varicella, unknown disease history",2 Doses,States,Washington,2016-17,89.3,87142.00,98.2,,Census,2016
+"Varicella, unknown disease history",2 Doses,States,West Virginia,2016-17,92.6,28666.00,66.5,,Census (public). voluntary response (private),2016
+"Varicella, unknown disease history",2 Doses,States,Wisconsin,2016-17,92.8,67607.00,2.2,,Stratified 2-stage cluster sample,2016
 "Varicella, unknown disease history",2 Doses,States,Wyoming,2016-17,,,,,Not conducted,2016
-"Varicella, unknown disease history",2 Doses,States,Alaska,2017-18,91.3,9692.0,84.4,,Stratified 2-stage cluster sample,2017
-"Varicella, unknown disease history",2 Doses,States,Arkansas,2017-18,91.6,39630.0,95.4,,Census ,2017
-"Varicella, unknown disease history",2 Doses,States,Colorado,2017-18,87.7,65718.0,100.0,,Census,2017
-"Varicella, unknown disease history",2 Doses,States,Connecticut,2017-18,96.3,39174.0,100.0,,Census,2017
-"Varicella, unknown disease history",2 Doses,States,Delaware,2017-18,96.7,10988.0,9.5,,Stratified 2-stage cluster sample,2017
-"Varicella, unknown disease history",2 Doses,States,Florida,2017-18,93.7,222397.0,100.0,,Census,2017
-"Varicella, unknown disease history",2 Doses,States,Georgia,2017-18,93.4,131459.0,100.0,,Census,2017
-"Varicella, unknown disease history",2 Doses,States,Idaho,2017-18,88.6,22553.0,99.0,,Census,2017
-"Varicella, unknown disease history",2 Doses,States,Illinois,2017-18,94.8,144858.0,100.0,,Census,2017
-"Varicella, unknown disease history",2 Doses,States,Indiana,2017-18,90.2,84296.0,96.4,,Voluntary Response,2017
-"Varicella, unknown disease history",2 Doses,States,Iowa,2017-18,93.0,39632.0,100.0,,Census,2017
-"Varicella, unknown disease history",2 Doses,States,Kansas,2017-18,88.3,38484.0,23.1,,Stratified 2-stage cluster sample,2017
-"Varicella, unknown disease history",2 Doses,States,Kentucky,2017-18,91.7,55152.0,99.0,,Census,2017
-"Varicella, unknown disease history",2 Doses,States,Louisiana,2017-18,95.6,58277.0,100.0,,Census,2017
-"Varicella, unknown disease history",2 Doses,States,Maryland,2017-18,97.5,68528.0,98.5,,Census,2017
-"Varicella, unknown disease history",2 Doses,States,Massachusetts,2017-18,96.0,63377.0,100.0,,Census,2017
-"Varicella, unknown disease history",2 Doses,States,Michigan,2017-18,94.7,119028.0,100.0,,Census,2017
-"Varicella, unknown disease history",2 Doses,States,Minnesota,2017-18,92.2,69807.0,98.1,,Census,2017
-"Varicella, unknown disease history",2 Doses,States,Mississippi,2017-18,99.4,39284.0,100.0,,Census,2017
-"Varicella, unknown disease history",2 Doses,States,Missouri,2017-18,95.0,73113.0,100.0,,Census,2017
-"Varicella, unknown disease history",2 Doses,States,Montana,2017-18,91.6,12188.0,100.0,,Census,2017
-"Varicella, unknown disease history",2 Doses,States,Nebraska,2017-18,95.5,26313.0,98.6,,Census,2017
-"Varicella, unknown disease history",2 Doses,States,Nevada,2017-18,92.6,37178.0,4.8,,Stratified 2-stage cluster sample,2017
-"Varicella, unknown disease history",2 Doses,States,New Hampshire,2017-18,92.4,12165.0,100.0,,Census,2017
-"Varicella, unknown disease history",2 Doses,States,New Mexico,2017-18,94.5,26896.0,99.6,,Stratified 2-stage cluster sample,2017
-"Varicella, unknown disease history",2 Doses,States,New York,2017-18,96.9,226456.0,100.0,,Census,2017
-"Varicella, unknown disease history",2 Doses,States,North Carolina,2017-18,96.8,127197.0,90.9,,Census,2017
-"Varicella, unknown disease history",2 Doses,States,North Dakota,2017-18,93.9,10365.0,99.4,,Census,2017
-"Varicella, unknown disease history",2 Doses,States,Ohio,2017-18,91.5,138753.0,94.9,,Census,2017
-"Varicella, unknown disease history",2 Doses,States,Pennsylvania,2017-18,97.0,141571.0,93.3,,Voluntary response,2017
+"Varicella, unknown disease history",2 Doses,States,Alaska,2017-18,91.3,9692.00,84.4,,Stratified 2-stage cluster sample,2017
+"Varicella, unknown disease history",2 Doses,States,Arkansas,2017-18,91.6,39630.00,95.4,,Census ,2017
+"Varicella, unknown disease history",2 Doses,States,Colorado,2017-18,87.7,65718.00,100,,Census,2017
+"Varicella, unknown disease history",2 Doses,States,Connecticut,2017-18,96.3,39174.00,100,,Census,2017
+"Varicella, unknown disease history",2 Doses,States,Delaware,2017-18,96.7,10988.00,9.5,,Stratified 2-stage cluster sample,2017
+"Varicella, unknown disease history",2 Doses,States,Florida,2017-18,93.7,222397.00,100,,Census,2017
+"Varicella, unknown disease history",2 Doses,States,Georgia,2017-18,93.4,131459.00,100,,Census,2017
+"Varicella, unknown disease history",2 Doses,States,Idaho,2017-18,88.6,22553.00,99,,Census,2017
+"Varicella, unknown disease history",2 Doses,States,Illinois,2017-18,94.8,144858.00,100,,Census,2017
+"Varicella, unknown disease history",2 Doses,States,Indiana,2017-18,90.2,84296.00,96.4,,Voluntary Response,2017
+"Varicella, unknown disease history",2 Doses,States,Iowa,2017-18,93,39632.00,100,,Census,2017
+"Varicella, unknown disease history",2 Doses,States,Kansas,2017-18,88.3,38484.00,23.1,,Stratified 2-stage cluster sample,2017
+"Varicella, unknown disease history",2 Doses,States,Kentucky,2017-18,91.7,55152.00,99,,Census,2017
+"Varicella, unknown disease history",2 Doses,States,Louisiana,2017-18,95.6,58277.00,100,,Census,2017
+"Varicella, unknown disease history",2 Doses,States,Maryland,2017-18,97.5,68528.00,98.5,,Census,2017
+"Varicella, unknown disease history",2 Doses,States,Massachusetts,2017-18,96,63377.00,100,,Census,2017
+"Varicella, unknown disease history",2 Doses,States,Michigan,2017-18,94.7,119028.00,100,,Census,2017
+"Varicella, unknown disease history",2 Doses,States,Minnesota,2017-18,92.2,69807.00,98.1,,Census,2017
+"Varicella, unknown disease history",2 Doses,States,Mississippi,2017-18,99.4,39284.00,100,,Census,2017
+"Varicella, unknown disease history",2 Doses,States,Missouri,2017-18,95,73113.00,100,,Census,2017
+"Varicella, unknown disease history",2 Doses,States,Montana,2017-18,91.6,12188.00,100,,Census,2017
+"Varicella, unknown disease history",2 Doses,States,Nebraska,2017-18,95.5,26313.00,98.6,,Census,2017
+"Varicella, unknown disease history",2 Doses,States,Nevada,2017-18,92.6,37178.00,4.8,,Stratified 2-stage cluster sample,2017
+"Varicella, unknown disease history",2 Doses,States,New Hampshire,2017-18,92.4,12165.00,100,,Census,2017
+"Varicella, unknown disease history",2 Doses,States,New Mexico,2017-18,94.5,26896.00,99.6,,Stratified 2-stage cluster sample,2017
+"Varicella, unknown disease history",2 Doses,States,New York,2017-18,96.9,226456.00,100,,Census,2017
+"Varicella, unknown disease history",2 Doses,States,North Carolina,2017-18,96.8,127197.00,90.9,,Census,2017
+"Varicella, unknown disease history",2 Doses,States,North Dakota,2017-18,93.9,10365.00,99.4,,Census,2017
+"Varicella, unknown disease history",2 Doses,States,Ohio,2017-18,91.5,138753.00,94.9,,Census,2017
+"Varicella, unknown disease history",2 Doses,States,Pennsylvania,2017-18,97,141571.00,93.3,,Voluntary response,2017
 "Varicella, unknown disease history",2 Doses,National,United States,2017-18,94.4,,,,,2017
-"Varicella, unknown disease history",2 Doses,States,Rhode Island,2017-18,96.0,11025.0,100.0,,Census,2017
-"Varicella, unknown disease history",2 Doses,States,South Carolina,2017-18,96.1,58458.0,27.0,,Stratified 1-stage cluster sample,2017
-"Varicella, unknown disease history",2 Doses,States,South Dakota,2017-18,95.8,12125.0,99.9,,Census,2017
-"Varicella, unknown disease history",2 Doses,States,Tennessee,2017-18,96.8,78743.0,100.0,,Census,2017
-"Varicella, unknown disease history",2 Doses,States,Texas,2017-18,96.4,387981.0,99.4,,Census,2017
+"Varicella, unknown disease history",2 Doses,States,Rhode Island,2017-18,96,11025.00,100,,Census,2017
+"Varicella, unknown disease history",2 Doses,States,South Carolina,2017-18,96.1,58458.00,27,,Stratified 1-stage cluster sample,2017
+"Varicella, unknown disease history",2 Doses,States,South Dakota,2017-18,95.8,12125.00,99.9,,Census,2017
+"Varicella, unknown disease history",2 Doses,States,Tennessee,2017-18,96.8,78743.00,100,,Census,2017
+"Varicella, unknown disease history",2 Doses,States,Texas,2017-18,96.4,387981.00,99.4,,Census,2017
 "Varicella, unknown disease history",2 Doses,National,U.S. Median,2017-18,93.9,,,,,2017
-"Varicella, unknown disease history",2 Doses,States,Utah,2017-18,93.7,48827.0,100.0,,Census,2017
-"Varicella, unknown disease history",2 Doses,States,Vermont,2017-18,93.2,6255.0,100.0,,Census,2017
-"Varicella, unknown disease history",2 Doses,States,Virginia,2017-18,93.3,100581.0,4.4,,Stratified 2-stage cluster sample,2017
-"Varicella, unknown disease history",2 Doses,States,Washington,2017-18,89.4,85118.0,96.9,,Census,2017
-"Varicella, unknown disease history",2 Doses,States,West Virginia,2017-18,98.1,19519.0,79.3,,Voluntary response,2017
-"Varicella, unknown disease history",2 Doses,States,Wisconsin,2017-18,91.2,66178.0,2.3,,Stratified 2-stage cluster sample,2017
+"Varicella, unknown disease history",2 Doses,States,Utah,2017-18,93.7,48827.00,100,,Census,2017
+"Varicella, unknown disease history",2 Doses,States,Vermont,2017-18,93.2,6255.00,100,,Census,2017
+"Varicella, unknown disease history",2 Doses,States,Virginia,2017-18,93.3,100581.00,4.4,,Stratified 2-stage cluster sample,2017
+"Varicella, unknown disease history",2 Doses,States,Washington,2017-18,89.4,85118.00,96.9,,Census,2017
+"Varicella, unknown disease history",2 Doses,States,West Virginia,2017-18,98.1,19519.00,79.3,,Voluntary response,2017
+"Varicella, unknown disease history",2 Doses,States,Wisconsin,2017-18,91.2,66178.00,2.3,,Stratified 2-stage cluster sample,2017
 "Varicella, unknown disease history",2 Doses,States,Wyoming,2017-18,,,,,Not conducted ,2017
-"Varicella, unknown disease history",2 Doses,States,Arkansas,2018-19,93.8,39257.0,95.4,,Census (public). voluntary response (private),2018
-"Varicella, unknown disease history",2 Doses,States,Colorado,2018-19,86.5,64191.0,100.0,,Census,2018
-"Varicella, unknown disease history",2 Doses,States,Connecticut,2018-19,95.7,38230.0,100.0,,Census,2018
-"Varicella, unknown disease history",2 Doses,States,Delaware,2018-19,97.6,10798.0,9.5,,Stratified 2-stage cluster sample,2018
-"Varicella, unknown disease history",2 Doses,States,Florida,2018-19,93.8,224641.0,100.0,,Census,2018
-"Varicella, unknown disease history",2 Doses,States,Georgia,2018-19,93.6,131275.0,100.0,,Census,2018
-"Varicella, unknown disease history",2 Doses,States,Idaho,2018-19,88.3,22995.0,99.0,,Census,2018
-"Varicella, unknown disease history",2 Doses,States,Illinois,2018-19,94.4,143876.0,100.0,,Census,2018
-"Varicella, unknown disease history",2 Doses,States,Indiana,2018-19,93.5,82324.0,96.4,,Census,2018
-"Varicella, unknown disease history",2 Doses,States,Iowa,2018-19,93.3,40624.0,100.0,,Census,2018
-"Varicella, unknown disease history",2 Doses,States,Kansas,2018-19,89.2,37838.0,23.1,,Stratified 2-stage cluster sample,2018
-"Varicella, unknown disease history",2 Doses,States,Kentucky,2018-19,92.8,55587.0,99.0,,Census,2018
-"Varicella, unknown disease history",2 Doses,States,Louisiana,2018-19,95.4,56203.0,100.0,,Census,2018
-"Varicella, unknown disease history",2 Doses,States,Maryland,2018-19,97.1,71431.0,100.0,,Census,2018
-"Varicella, unknown disease history",2 Doses,States,Massachusetts,2018-19,96.5,65279.0,100.0,,Census,2018
-"Varicella, unknown disease history",2 Doses,States,Michigan,2018-19,94.3,118632.0,100.0,,Census,2018
-"Varicella, unknown disease history",2 Doses,States,Minnesota,2018-19,92.0,70085.0,98.1,,Census,2018
-"Varicella, unknown disease history",2 Doses,States,Mississippi,2018-19,99.2,37775.0,100.0,,Census,2018
-"Varicella, unknown disease history",2 Doses,States,Missouri,2018-19,94.5,72687.0,100.0,,Census,2018
-"Varicella, unknown disease history",2 Doses,States,Montana,2018-19,92.9,12480.0,100.0,,Census,2018
-"Varicella, unknown disease history",2 Doses,States,Nebraska,2018-19,96.3,26925.0,98.6,,Census,2018
-"Varicella, unknown disease history",2 Doses,States,Nevada,2018-19,94.7,37971.0,4.8,,Stratified 2-stage cluster sample,2018
-"Varicella, unknown disease history",2 Doses,States,New Hampshire,2018-19,91.8,12421.0,100.0,,Census,2018
-"Varicella, unknown disease history",2 Doses,States,New Mexico,2018-19,95.7,25269.0,99.6,,Census,2018
-"Varicella, unknown disease history",2 Doses,States,New York,2018-19,96.7,220495.0,100.0,,Census,2018
-"Varicella, unknown disease history",2 Doses,States,North Carolina,2018-19,93.1,124343.0,90.9,,Census (public). voluntary response (private),2018
-"Varicella, unknown disease history",2 Doses,States,North Dakota,2018-19,93.8,10382.0,99.4,,Census,2018
-"Varicella, unknown disease history",2 Doses,States,Ohio,2018-19,91.2,139679.0,94.9,,Census (public). voluntary response (private),2018
-"Varicella, unknown disease history",2 Doses,States,Pennsylvania,2018-19,95.8,143560.0,93.3,,Census (public). voluntary response (private),2018
+"Varicella, unknown disease history",2 Doses,States,Arkansas,2018-19,93.8,39257.00,95.4,,Census (public). voluntary response (private),2018
+"Varicella, unknown disease history",2 Doses,States,Colorado,2018-19,86.5,64191.00,100,,Census,2018
+"Varicella, unknown disease history",2 Doses,States,Connecticut,2018-19,95.7,38230.00,100,,Census,2018
+"Varicella, unknown disease history",2 Doses,States,Delaware,2018-19,97.6,10798.00,9.5,,Stratified 2-stage cluster sample,2018
+"Varicella, unknown disease history",2 Doses,States,Florida,2018-19,93.8,224641.00,100,,Census,2018
+"Varicella, unknown disease history",2 Doses,States,Georgia,2018-19,93.6,131275.00,100,,Census,2018
+"Varicella, unknown disease history",2 Doses,States,Idaho,2018-19,88.3,22995.00,99,,Census,2018
+"Varicella, unknown disease history",2 Doses,States,Illinois,2018-19,94.4,143876.00,100,,Census,2018
+"Varicella, unknown disease history",2 Doses,States,Indiana,2018-19,93.5,82324.00,96.4,,Census,2018
+"Varicella, unknown disease history",2 Doses,States,Iowa,2018-19,93.3,40624.00,100,,Census,2018
+"Varicella, unknown disease history",2 Doses,States,Kansas,2018-19,89.2,37838.00,23.1,,Stratified 2-stage cluster sample,2018
+"Varicella, unknown disease history",2 Doses,States,Kentucky,2018-19,92.8,55587.00,99,,Census,2018
+"Varicella, unknown disease history",2 Doses,States,Louisiana,2018-19,95.4,56203.00,100,,Census,2018
+"Varicella, unknown disease history",2 Doses,States,Maryland,2018-19,97.1,71431.00,100,,Census,2018
+"Varicella, unknown disease history",2 Doses,States,Massachusetts,2018-19,96.5,65279.00,100,,Census,2018
+"Varicella, unknown disease history",2 Doses,States,Michigan,2018-19,94.3,118632.00,100,,Census,2018
+"Varicella, unknown disease history",2 Doses,States,Minnesota,2018-19,92,70085.00,98.1,,Census,2018
+"Varicella, unknown disease history",2 Doses,States,Mississippi,2018-19,99.2,37775.00,100,,Census,2018
+"Varicella, unknown disease history",2 Doses,States,Missouri,2018-19,94.5,72687.00,100,,Census,2018
+"Varicella, unknown disease history",2 Doses,States,Montana,2018-19,92.9,12480.00,100,,Census,2018
+"Varicella, unknown disease history",2 Doses,States,Nebraska,2018-19,96.3,26925.00,98.6,,Census,2018
+"Varicella, unknown disease history",2 Doses,States,Nevada,2018-19,94.7,37971.00,4.8,,Stratified 2-stage cluster sample,2018
+"Varicella, unknown disease history",2 Doses,States,New Hampshire,2018-19,91.8,12421.00,100,,Census,2018
+"Varicella, unknown disease history",2 Doses,States,New Mexico,2018-19,95.7,25269.00,99.6,,Census,2018
+"Varicella, unknown disease history",2 Doses,States,New York,2018-19,96.7,220495.00,100,,Census,2018
+"Varicella, unknown disease history",2 Doses,States,North Carolina,2018-19,93.1,124343.00,90.9,,Census (public). voluntary response (private),2018
+"Varicella, unknown disease history",2 Doses,States,North Dakota,2018-19,93.8,10382.00,99.4,,Census,2018
+"Varicella, unknown disease history",2 Doses,States,Ohio,2018-19,91.2,139679.00,94.9,,Census (public). voluntary response (private),2018
+"Varicella, unknown disease history",2 Doses,States,Pennsylvania,2018-19,95.8,143560.00,93.3,,Census (public). voluntary response (private),2018
 "Varicella, unknown disease history",2 Doses,National,United States,2018-19,94.3,,,,,2018
-"Varicella, unknown disease history",2 Doses,States,Rhode Island,2018-19,97.0,10964.0,100.0,,Census,2018
-"Varicella, unknown disease history",2 Doses,States,South Carolina,2018-19,93.5,58442.0,27.0,,Stratified 1-stage cluster sample,2018
-"Varicella, unknown disease history",2 Doses,States,South Dakota,2018-19,95.5,12062.0,99.9,,Census,2018
-"Varicella, unknown disease history",2 Doses,States,Tennessee,2018-19,96.2,78630.0,100.0,,Census,2018
-"Varicella, unknown disease history",2 Doses,States,Texas,2018-19,96.5,390034.0,99.4,,Census,2018
+"Varicella, unknown disease history",2 Doses,States,Rhode Island,2018-19,97,10964.00,100,,Census,2018
+"Varicella, unknown disease history",2 Doses,States,South Carolina,2018-19,93.5,58442.00,27,,Stratified 1-stage cluster sample,2018
+"Varicella, unknown disease history",2 Doses,States,South Dakota,2018-19,95.5,12062.00,99.9,,Census,2018
+"Varicella, unknown disease history",2 Doses,States,Tennessee,2018-19,96.2,78630.00,100,,Census,2018
+"Varicella, unknown disease history",2 Doses,States,Texas,2018-19,96.5,390034.00,99.4,,Census,2018
 "Varicella, unknown disease history",2 Doses,National,U.S. Median,2018-19,93.8,,,,,2018
-"Varicella, unknown disease history",2 Doses,States,Utah,2018-19,92.5,50179.0,100.0,,Census,2018
-"Varicella, unknown disease history",2 Doses,States,Vermont,2018-19,92.3,6126.0,100.0,,Census,2018
-"Varicella, unknown disease history",2 Doses,States,Virginia,2018-19,93.6,100394.0,4.4,,Stratified 2-stage cluster sample,2018
-"Varicella, unknown disease history",2 Doses,States,Washington,2018-19,89.7,87510.0,96.9,,Census,2018
-"Varicella, unknown disease history",2 Doses,States,West Virginia,2018-19,98.5,19442.0,79.3,,Voluntary response,2018
-"Varicella, unknown disease history",2 Doses,States,Wisconsin,2018-19,91.6,66344.0,2.3,,Stratified 2-stage cluster sample,2018
-"Varicella, unknown disease history",2 Doses,States,Wyoming,2018-19,94.7,7734.0,100.0,,Census,2018
-"Varicella, unknown disease history",2 Doses,States,Alabama,2019-20,NReq,59477.0,94.9,,Census,2019
-"Varicella, unknown disease history",2 Doses,States,Alaska,2019-20,NR,10381.0,82.7,,Voluntary response,2019
-"Varicella, unknown disease history",2 Doses,States,Arizona,2019-20,NReq,83976.0,98.7,,Census (public). voluntary response (private),2019
-"Varicella, unknown disease history",2 Doses,States,Arkansas,2019-20,93.9,39510.0,96.2,,Census (public). voluntary response (private),2019
-"Varicella, unknown disease history",2 Doses,States,California,2019-20,96.1,566155.0,97.9,,Census,2019
-"Varicella, unknown disease history",2 Doses,States,Colorado,2019-20,90.1,69088.0,98.2,,Census,2019
-"Varicella, unknown disease history",2 Doses,States,Connecticut,2019-20,95.9,38888.0,100.0,,Census,2019
-"Varicella, unknown disease history",2 Doses,States,Florida,2019-20,93.5,228298.0,100.0,,Census,2019
-"Varicella, unknown disease history",2 Doses,States,Georgia,2019-20,93.1,130102.0,100.0,,Census,2019
-"Varicella, unknown disease history",2 Doses,States,Hawaii,2019-20,70.2,15695.0,8.9,,Stratified 2-stage cluster sample,2019
-"Varicella, unknown disease history",2 Doses,States,Idaho,2019-20,88.5,23301.0,98.5,,Census,2019
-"Varicella, unknown disease history",2 Doses,States,Illinois,2019-20,96.4,145891.0,100.0,,Census,2019
-"Varicella, unknown disease history",2 Doses,States,Indiana,2019-20,94.0,88253.0,65.7,,Voluntary response,2019
-"Varicella, unknown disease history",2 Doses,States,Iowa,2019-20,93.2,40812.0,100.0,,Census,2019
-"Varicella, unknown disease history",2 Doses,States,Kansas,2019-20,89.1,37865.0,34.3,,Stratified 2-stage cluster sample,2019
-"Varicella, unknown disease history",2 Doses,States,Kentucky,2019-20,92.5,59233.0,92.9,,Census,2019
-"Varicella, unknown disease history",2 Doses,States,Louisiana,2019-20,95.0,59685.0,100.0,,Census,2019
-"Varicella, unknown disease history",2 Doses,States,Maine,2019-20,NReq,13450.0,99.6,,Census ,2019
-"Varicella, unknown disease history",2 Doses,States,Maryland,2019-20,97.5,72443.0,98.3,,Census (public). voluntary response (private),2019
-"Varicella, unknown disease history",2 Doses,States,Massachusetts,2019-20,97.0,66756.0,100.0,,Census,2019
-"Varicella, unknown disease history",2 Doses,States,Michigan,2019-20,94.4,120565.0,100.0,,Census,2019
-"Varicella, unknown disease history",2 Doses,States,Minnesota,2019-20,92.0,71223.0,98.7,,Census,2019
-"Varicella, unknown disease history",2 Doses,States,Mississippi,2019-20,99.1,37870.0,100.0,,Census,2019
-"Varicella, unknown disease history",2 Doses,States,Missouri,2019-20,94.2,72324.0,100.0,,Census,2019
-"Varicella, unknown disease history",2 Doses,States,Montana,2019-20,93.2,12501.0,100.0,,Census,2019
-"Varicella, unknown disease history",2 Doses,States,Nebraska,2019-20,95.6,26893.0,96.7,,Census,2019
-"Varicella, unknown disease history",2 Doses,States,Nevada,2019-20,94.6,37724.0,99.9,,Census,2019
-"Varicella, unknown disease history",2 Doses,States,New Hampshire,2019-20,91.5,12447.0,100.0,,Census,2019
-"Varicella, unknown disease history",2 Doses,States,New Jersey,2019-20,NReq,107900.0,100.0,,Census,2019
-"Varicella, unknown disease history",2 Doses,States,New Mexico,2019-20,96.7,23087.0,100.0,,Census,2019
-"Varicella, unknown disease history",2 Doses,States,New York,2019-20,98.1,234165.0,99.9,,Census,2019
-"Varicella, unknown disease history",2 Doses,States,North Carolina,2019-20,95.3,124548.0,97.8,,Census,2019
-"Varicella, unknown disease history",2 Doses,States,North Dakota,2019-20,94.8,10587.0,99.5,,Census,2019
-"Varicella, unknown disease history",2 Doses,States,Ohio,2019-20,91.9,139103.0,98.8,,Census,2019
-"Varicella, unknown disease history",2 Doses,States,Oklahoma,2019-20,NReq,55348.0,85.6,,Voluntary response,2019
-"Varicella, unknown disease history",2 Doses,States,Oregon,2019-20,NReq,45959.0,100.0,,Census,2019
-"Varicella, unknown disease history",2 Doses,States,Pennsylvania,2019-20,96.3,140197.0,98.8,,Census,2019
+"Varicella, unknown disease history",2 Doses,States,Utah,2018-19,92.5,50179.00,100,,Census,2018
+"Varicella, unknown disease history",2 Doses,States,Vermont,2018-19,92.3,6126.00,100,,Census,2018
+"Varicella, unknown disease history",2 Doses,States,Virginia,2018-19,93.6,100394.00,4.4,,Stratified 2-stage cluster sample,2018
+"Varicella, unknown disease history",2 Doses,States,Washington,2018-19,89.7,87510.00,96.9,,Census,2018
+"Varicella, unknown disease history",2 Doses,States,West Virginia,2018-19,98.5,19442.00,79.3,,Voluntary response,2018
+"Varicella, unknown disease history",2 Doses,States,Wisconsin,2018-19,91.6,66344.00,2.3,,Stratified 2-stage cluster sample,2018
+"Varicella, unknown disease history",2 Doses,States,Wyoming,2018-19,94.7,7734.00,100,,Census,2018
+"Varicella, unknown disease history",2 Doses,States,Alabama,2019-20,NReq,59477.00,94.9,,Census,2019
+"Varicella, unknown disease history",2 Doses,States,Alaska,2019-20,NR,10381.00,82.7,,Voluntary response,2019
+"Varicella, unknown disease history",2 Doses,States,Arizona,2019-20,NReq,83976.00,98.7,,Census (public). voluntary response (private),2019
+"Varicella, unknown disease history",2 Doses,States,Arkansas,2019-20,93.9,39510.00,96.2,,Census (public). voluntary response (private),2019
+"Varicella, unknown disease history",2 Doses,States,California,2019-20,96.1,566155.00,97.9,,Census,2019
+"Varicella, unknown disease history",2 Doses,States,Colorado,2019-20,90.1,69088.00,98.2,,Census,2019
+"Varicella, unknown disease history",2 Doses,States,Connecticut,2019-20,95.9,38888.00,100,,Census,2019
+"Varicella, unknown disease history",2 Doses,States,Florida,2019-20,93.5,228298.00,100,,Census,2019
+"Varicella, unknown disease history",2 Doses,States,Georgia,2019-20,93.1,130102.00,100,,Census,2019
+"Varicella, unknown disease history",2 Doses,States,Hawaii,2019-20,70.2,15695.00,8.9,,Stratified 2-stage cluster sample,2019
+"Varicella, unknown disease history",2 Doses,States,Idaho,2019-20,88.5,23301.00,98.5,,Census,2019
+"Varicella, unknown disease history",2 Doses,States,Illinois,2019-20,96.4,145891.00,100,,Census,2019
+"Varicella, unknown disease history",2 Doses,States,Indiana,2019-20,94,88253.00,65.7,,Voluntary response,2019
+"Varicella, unknown disease history",2 Doses,States,Iowa,2019-20,93.2,40812.00,100,,Census,2019
+"Varicella, unknown disease history",2 Doses,States,Kansas,2019-20,89.1,37865.00,34.3,,Stratified 2-stage cluster sample,2019
+"Varicella, unknown disease history",2 Doses,States,Kentucky,2019-20,92.5,59233.00,92.9,,Census,2019
+"Varicella, unknown disease history",2 Doses,States,Louisiana,2019-20,95,59685.00,100,,Census,2019
+"Varicella, unknown disease history",2 Doses,States,Maine,2019-20,NReq,13450.00,99.6,,Census ,2019
+"Varicella, unknown disease history",2 Doses,States,Maryland,2019-20,97.5,72443.00,98.3,,Census (public). voluntary response (private),2019
+"Varicella, unknown disease history",2 Doses,States,Massachusetts,2019-20,97,66756.00,100,,Census,2019
+"Varicella, unknown disease history",2 Doses,States,Michigan,2019-20,94.4,120565.00,100,,Census,2019
+"Varicella, unknown disease history",2 Doses,States,Minnesota,2019-20,92,71223.00,98.7,,Census,2019
+"Varicella, unknown disease history",2 Doses,States,Mississippi,2019-20,99.1,37870.00,100,,Census,2019
+"Varicella, unknown disease history",2 Doses,States,Missouri,2019-20,94.2,72324.00,100,,Census,2019
+"Varicella, unknown disease history",2 Doses,States,Montana,2019-20,93.2,12501.00,100,,Census,2019
+"Varicella, unknown disease history",2 Doses,States,Nebraska,2019-20,95.6,26893.00,96.7,,Census,2019
+"Varicella, unknown disease history",2 Doses,States,Nevada,2019-20,94.6,37724.00,99.9,,Census,2019
+"Varicella, unknown disease history",2 Doses,States,New Hampshire,2019-20,91.5,12447.00,100,,Census,2019
+"Varicella, unknown disease history",2 Doses,States,New Jersey,2019-20,NReq,107900.00,100,,Census,2019
+"Varicella, unknown disease history",2 Doses,States,New Mexico,2019-20,96.7,23087.00,100,,Census,2019
+"Varicella, unknown disease history",2 Doses,States,New York,2019-20,98.1,234165.00,99.9,,Census,2019
+"Varicella, unknown disease history",2 Doses,States,North Carolina,2019-20,95.3,124548.00,97.8,,Census,2019
+"Varicella, unknown disease history",2 Doses,States,North Dakota,2019-20,94.8,10587.00,99.5,,Census,2019
+"Varicella, unknown disease history",2 Doses,States,Ohio,2019-20,91.9,139103.00,98.8,,Census,2019
+"Varicella, unknown disease history",2 Doses,States,Oklahoma,2019-20,NReq,55348.00,85.6,,Voluntary response,2019
+"Varicella, unknown disease history",2 Doses,States,Oregon,2019-20,NReq,45959.00,100,,Census,2019
+"Varicella, unknown disease history",2 Doses,States,Pennsylvania,2019-20,96.3,140197.00,98.8,,Census,2019
 "Varicella, unknown disease history",2 Doses,National,United States,2019-20,94.8,,,,,2019
-"Varicella, unknown disease history",2 Doses,States,Rhode Island,2019-20,97.0,11219.0,98.5,,Census,2019
-"Varicella, unknown disease history",2 Doses,States,South Carolina,2019-20,94.5,65938.0,27.5,,Stratified 1-stage cluster sample,2019
-"Varicella, unknown disease history",2 Doses,States,South Dakota,2019-20,95.2,12367.0,99.8,,Census,2019
-"Varicella, unknown disease history",2 Doses,States,Tennessee,2019-20,96.5,80595.0,100.0,,Census,2019
-"Varicella, unknown disease history",2 Doses,States,Texas,2019-20,96.4,398680.0,99.6,,Census,2019
+"Varicella, unknown disease history",2 Doses,States,Rhode Island,2019-20,97,11219.00,98.5,,Census,2019
+"Varicella, unknown disease history",2 Doses,States,South Carolina,2019-20,94.5,65938.00,27.5,,Stratified 1-stage cluster sample,2019
+"Varicella, unknown disease history",2 Doses,States,South Dakota,2019-20,95.2,12367.00,99.8,,Census,2019
+"Varicella, unknown disease history",2 Doses,States,Tennessee,2019-20,96.5,80595.00,100,,Census,2019
+"Varicella, unknown disease history",2 Doses,States,Texas,2019-20,96.4,398680.00,99.6,,Census,2019
 "Varicella, unknown disease history",2 Doses,National,U.S. Median,2019-20,94.3,,,,,2019
-"Varicella, unknown disease history",2 Doses,States,Utah,2019-20,92.4,49208.0,100.0,,Census,2019
-"Varicella, unknown disease history",2 Doses,States,Vermont,2019-20,93.9,6293.0,100.0,,Census,2019
-"Varicella, unknown disease history",2 Doses,States,Virginia,2019-20,93.3,99399.0,1.2,,Stratified 2-stage cluster sample,2019
-"Varicella, unknown disease history",2 Doses,States,Washington,2019-20,92.7,87757.0,91.9,,Census,2019
-"Varicella, unknown disease history",2 Doses,States,West Virginia,2019-20,97.8,17114.0,49.6,,Voluntary response,2019
-"Varicella, unknown disease history",2 Doses,States,Wisconsin,2019-20,91.6,67391.0,2.6,,Stratified 2-stage cluster sample,2019
-"Varicella, unknown disease history",2 Doses,States,Wyoming,2019-20,85.6,7913.0,100.0,,Census,2019
+"Varicella, unknown disease history",2 Doses,States,Utah,2019-20,92.4,49208.00,100,,Census,2019
+"Varicella, unknown disease history",2 Doses,States,Vermont,2019-20,93.9,6293.00,100,,Census,2019
+"Varicella, unknown disease history",2 Doses,States,Virginia,2019-20,93.3,99399.00,1.2,,Stratified 2-stage cluster sample,2019
+"Varicella, unknown disease history",2 Doses,States,Washington,2019-20,92.7,87757.00,91.9,,Census,2019
+"Varicella, unknown disease history",2 Doses,States,West Virginia,2019-20,97.8,17114.00,49.6,,Voluntary response,2019
+"Varicella, unknown disease history",2 Doses,States,Wisconsin,2019-20,91.6,67391.00,2.6,,Stratified 2-stage cluster sample,2019
+"Varicella, unknown disease history",2 Doses,States,Wyoming,2019-20,85.6,7913.00,100,,Census,2019
