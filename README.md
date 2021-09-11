@@ -40,6 +40,9 @@ https://data.cdc.gov/Vaccinations/Vaccination-Coverage-and-Exemptions-among-Kind
   4. We then exported this into a CSV (vaccine_exemption.csv)
 
 **Load | Database and ERD** (project2sql)
+
+![Image of ERD](Data/ERD.png)
+
   1. After CSV export, we created two tables in SQL mirroring the CSV files
   2. We then imported the CSV files into SQL.  
   3. We performed innerjoin on year and geography
