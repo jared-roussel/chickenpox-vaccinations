@@ -18,6 +18,7 @@ https://wonder.cdc.gov/nndss/static/2019/annual/2019-table2r.html
 
 Abbrevations:
 N - Not reportable
+
 NReq - Not required
 
 In addition, we identified vaccination coverage and exemptions among kindergartners (2016-2019):
