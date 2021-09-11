@@ -37,4 +37,4 @@ https://data.cdc.gov/Vaccinations/Vaccination-Coverage-and-Exemptions-among-Kind
 
 **Load | Database and ERD**
 
-After the tables were cleaned up to remove the extra columns, we exported them to cvs files. Once the tables were exported, we were then able to import them into sql to do joing. This required some more cleaning in terms of setting data types and column names. OUr two tables were then joined into one main table and exported.
+After the tables were cleaned up to remove the extra columns, we exported them to cvs files. Once the tables were exported, we were then able to import them into sql to do joing. This required some more cleaning in terms of setting data types and column names. Our two tables were then joined into one main table and exported.
