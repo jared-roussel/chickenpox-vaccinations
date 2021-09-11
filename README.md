@@ -7,6 +7,7 @@ With the advent of vaccination for COVID-19, recent controversy on vaccination r
 We sought to find the morbidity and mortality of Varicella (Chickenpox) reported by the CDC from 2016-2019.
 
 **Yearly Mortality and Morbidity HTML Tables**
+
 https://wonder.cdc.gov/nndss/static/2016/annual/2016-table2o.html
 https://wonder.cdc.gov/nndss/static/2017/annual/2017-table2o.html
 https://wonder.cdc.gov/nndss/static/2018/annual/2018-table2o.html
