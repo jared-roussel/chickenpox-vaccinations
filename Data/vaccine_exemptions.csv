@@ -1,194 +1,243 @@
-,Geography,Year,Exempt_Estimate_Percent,Survey Type
-4762,Alabama,2016,0.7,Census
-4763,Alaska,2016,6.8,Census
-4764,Arizona,2016,5.1,Census
-4765,Arkansas,2016,1.4,Voluntary response
-4766,California,2016,1.1,Census
-4767,Connecticut,2016,2.1,Census
-4768,Delaware,2016,1.2,Stratified 2-stage cluster sample
-4769,Florida,2016,2.5,Census
-4770,Georgia,2016,2.8,Census
-4771,Hawaii,2016,2.8,Stratified 2-stage cluster sample
-4772,Idaho,2016,6.5,Census
-4773,Indiana,2016,1.0,Voluntary response
-4774,Iowa,2016,1.8,Census
-4775,Kansas,2016,1.8,Census
-4776,Kentucky,2016,1.1,Census
-4777,Louisiana,2016,0.8,Census
-4778,Maine,2016,5.0,Voluntary response (public). census (private)
-4779,Maryland,2016,1.4,Census
-4780,Massachusetts,2016,1.3,Census
-4781,Michigan,2016,3.7,Census
-4782,Mississippi,2016,0.1,Census
-4783,Montana,2016,3.7,Census
-4784,Nebraska,2016,2.0,Census
-4785,Nevada,2016,4.4,Stratified 2-stage cluster sample
-4786,New Hampshire,2016,3.2,Census
-4787,New Jersey,2016,1.9,Census
-4788,New Mexico,2016,2.3,Stratified 2-stage cluster sample
-4789,New York,2016,1.0,Census
-4790,North Carolina,2016,1.8,Voluntary response
-4791,North Dakota,2016,3.4,Census
-4792,Ohio,2016,2.4,Census
-4793,Oklahoma,2016,1.9,Census
-4794,Oregon,2016,6.7,Census
-4795,Pennsylvania,2016,2.3,Voluntary response
-4797,Rhode Island,2016,1.2,Census
-4798,South Carolina,2016,2.0,Stratified 1-stage cluster sample
-4799,South Dakota,2016,2.0,Census
-4800,Tennessee,2016,1.3,Census
-4801,Texas,2016,1.8,Census
-4803,Utah,2016,5.1,Census
-4804,Vermont,2016,3.9,Census
-4805,Virginia,2016,1.2,Census
-4806,Washington,2016,4.8,Census
-4807,West Virginia,2016,0.3,Census (public). voluntary response (private)
-4808,Wisconsin,2016,5.5,Census
-4810,Alabama,2017,0.9,Census
-4811,Alaska,2017,7.0,Stratified 2-stage cluster sample
-4812,Arizona,2017,5.8,Census
-4813,Arkansas,2017,1.7,Census 
-4814,California,2017,0.7,Census
-4815,Colorado,2017,4.7,Census
-4816,Connecticut,2017,2.3,Census
-4817,Delaware,2017,1.4,Stratified 2-stage cluster sample
-4819,Florida,2017,2.9,Census
-4820,Georgia,2017,2.7,Census
-4821,Hawaii,2017,3.1,Stratified 2-stage cluster sample
-4822,Idaho,2017,7.1,Census
-4823,Illinois,2017,1.6,Census
-4824,Indiana,2017,0.9,Voluntary Response
-4825,Iowa,2017,2.0,Census
-4826,Kansas,2017,1.7,Stratified 2-stage cluster sample
-4827,Kentucky,2017,1.4,Census
-4828,Louisiana,2017,1.1,Census
-4829,Maine,2017,5.3,Census 
-4830,Maryland,2017,1.5,Census
-4831,Massachusetts,2017,1.3,Census
-4832,Michigan,2017,4.2,Census
-4833,Minnesota,2017,3.5,Census
-4834,Mississippi,2017,0.1,Census
-4835,Missouri,2017,2.3,Census
-4836,Montana,2017,4.3,Census
-4837,Nebraska,2017,2.2,Census
-4838,Nevada,2017,3.2,Stratified 2-stage cluster sample
-4839,New Hampshire,2017,2.9,Census
-4840,New Jersey,2017,2.2,Census
-4841,New Mexico,2017,1.7,Stratified 2-stage cluster sample
-4842,New York,2017,1.1,Census
-4843,North Carolina,2017,2.0,Census
-4844,North Dakota,2017,3.4,Census
-4845,Ohio,2017,2.6,Census
-4846,Oklahoma,2017,2.2,Census (public). voluntary response (private)
-4847,Oregon,2017,7.6,Census
-4848,Pennsylvania,2017,2.8,Voluntary response
-4850,Rhode Island,2017,1.1,Census
-4851,South Carolina,2017,2.0,Stratified 1-stage cluster sample
-4852,South Dakota,2017,2.2,Census
-4853,Tennessee,2017,1.5,Census
-4854,Texas,2017,2.0,Census
-4856,Utah,2017,5.3,Census
-4857,Vermont,2017,3.8,Census
-4858,Virginia,2017,1.5,Stratified 2-stage cluster sample
-4859,Washington,2017,4.7,Census
-4860,West Virginia,2017,0.2,Voluntary response
-4861,Wisconsin,2017,5.4,Stratified 2-stage cluster sample
-4863,Alabama,2018,0.8,Census
-4864,Alaska,2018,7.1,Voluntary response
-4865,Arizona,2018,6.0,Census
-4866,Arkansas,2018,1.8,Census (public). voluntary response (private)
-4867,California,2018,0.6,Census
-4868,Colorado,2018,4.9,Census
-4869,Connecticut,2018,2.7,Census
-4870,Delaware,2018,1.2,Stratified 2-stage cluster sample
-4872,Florida,2018,3.2,Census
-4873,Georgia,2018,2.5,Census
-4874,Hawaii,2018,4.4,Stratified 2-stage cluster sample
-4875,Idaho,2018,7.7,Census
-4876,Illinois,2018,1.8,Census
-4877,Indiana,2018,1.3,Census
-4878,Iowa,2018,2.4,Census
-4879,Kansas,2018,2.1,Stratified 2-stage cluster sample
-4880,Kentucky,2018,1.4,Census
-4881,Louisiana,2018,1.2,Census
-4882,Maine,2018,6.2,Census
-4883,Maryland,2018,1.5,Census
-4884,Massachusetts,2018,1.4,Census
-4885,Michigan,2018,4.5,Census
-4886,Minnesota,2018,3.7,Census
-4887,Mississippi,2018,0.1,Census
-4888,Missouri,2018,2.7,Census
-4889,Montana,2018,4.5,Census
-4890,Nebraska,2018,2.1,Census
-4891,Nevada,2018,3.3,Stratified 2-stage cluster sample
-4892,New Hampshire,2018,3.3,Census
-4893,New Jersey,2018,2.5,Census
-4894,New Mexico,2018,1.5,Census
-4895,New York,2018,1.3,Census
-4896,North Carolina,2018,1.6,Census (public). voluntary response (private)
-4897,North Dakota,2018,4.3,Census
-4898,Ohio,2018,2.9,Census (public). voluntary response (private)
-4899,Oklahoma,2018,2.6,Census (public). voluntary response (private)
-4900,Oregon,2018,7.7,Census
-4901,Pennsylvania,2018,2.9,Census (public). voluntary response (private)
-4903,Rhode Island,2018,1.3,Census
-4904,South Carolina,2018,2.6,Stratified 1-stage cluster sample
-4905,South Dakota,2018,2.6,Census
-4906,Tennessee,2018,1.9,Census
-4907,Texas,2018,2.4,Census
-4909,Utah,2018,5.7,Census
-4910,Vermont,2018,4.7,Census
-4911,Virginia,2018,1.7,Stratified 2-stage cluster sample
-4912,Washington,2018,5.0,Census
-4913,West Virginia,2018,0.8,Voluntary response
-4914,Wisconsin,2018,5.9,Stratified 2-stage cluster sample
-4915,Wyoming,2018,2.9,Census
-4916,Alabama,2019,1.2,Census
-4917,Alaska,2019,5.9,Voluntary response
-4918,Arizona,2019,5.5,Census (public). voluntary response (private)
-4919,Arkansas,2019,1.9,Census (public). voluntary response (private)
-4920,California,2019,0.8,Census
-4921,Colorado,2019,4.9,Census
-4922,Connecticut,2019,2.5,Census
-4925,Florida,2019,3.4,Census
-4926,Georgia,2019,3.0,Census
-4927,Hawaii,2019,6.1,Stratified 2-stage cluster sample
-4928,Idaho,2019,7.6,Census
-4929,Illinois,2019,2.0,Census
-4930,Indiana,2019,2.2,Voluntary response
-4931,Iowa,2019,2.5,Census
-4932,Kansas,2019,2.1,Stratified 2-stage cluster sample
-4933,Kentucky,2019,1.8,Census
-4934,Louisiana,2019,1.5,Census
-4935,Maine,2019,5.9,Census 
-4936,Maryland,2019,1.4,Census (public). voluntary response (private)
-4937,Massachusetts,2019,1.3,Census
-4938,Michigan,2019,4.4,Census
-4939,Minnesota,2019,3.8,Census
-4940,Mississippi,2019,0.2,Census
-4941,Missouri,2019,2.7,Census
-4942,Montana,2019,4.3,Census
-4943,Nebraska,2019,2.2,Census
-4944,Nevada,2019,4.0,Census
-4945,New Hampshire,2019,3.1,Census
-4946,New Jersey,2019,2.6,Census
-4947,New Mexico,2019,1.5,Census
-4948,New York,2019,0.1,Census
-4949,North Carolina,2019,1.7,Census
-4950,North Dakota,2019,3.9,Census
-4951,Ohio,2019,2.8,Census
-4952,Oklahoma,2019,2.7,Voluntary response
-4953,Oregon,2019,7.1,Census
-4954,Pennsylvania,2019,3.0,Census
-4956,Rhode Island,2019,1.3,Census
-4957,South Carolina,2019,2.6,Stratified 1-stage cluster sample
-4958,South Dakota,2019,2.7,Census
-4959,Tennessee,2019,2.0,Census
-4960,Texas,2019,2.5,Census
-4962,Utah,2019,5.4,Census
-4963,Vermont,2019,3.7,Census
-4964,Virginia,2019,1.7,Census
-4965,Washington,2019,5.7,Census
-4966,West Virginia,2019,0.1,Voluntary response
-4967,Wisconsin,2019,5.7,Census
-4968,Wyoming,2019,3.5,Census
+,Geography,Year,Exempt_Estimate_Percent,Survey Type,Dose,Vaccinated_Estimate_Percent
+0,Alabama,2016,0.7,Census,1 Dose,93.8
+1,Alaska,2016,6.8,Census,2 Doses,88.9
+2,Arizona,2016,5.1,Census,1 Dose,96.7
+3,Arkansas,2016,1.4,Voluntary response,2 Doses,91.7
+4,California,2016,1.1,Census,1 Dose,98.5
+5,Connecticut,2016,2.1,Census,2 Doses,96.5
+6,Delaware,2016,1.2,Stratified 2-stage cluster sample,2 Doses,98.2
+7,Florida,2016,2.5,Census,2 Doses,94.1
+8,Georgia,2016,2.8,Census,2 Doses,93.3
+9,Hawaii,2016,2.8,Stratified 2-stage cluster sample,1 Dose,95.3
+10,Idaho,2016,6.5,Census,2 Doses,89.1
+11,Indiana,2016,1.0,Voluntary response,2 Doses,87.9
+12,Iowa,2016,1.8,Census,2 Doses,92.6
+13,Kansas,2016,1.8,Census,2 Doses,88.8
+14,Kentucky,2016,1.1,Census,2 Doses,90.4
+15,Louisiana,2016,0.8,Census,2 Doses,96.5
+16,Maine,2016,5.0,Voluntary response (public). census (private),1 Dose,96.7
+17,Maryland,2016,1.4,Census,2 Doses,97.6
+18,Massachusetts,2016,1.3,Census,2 Doses,95.7
+19,Michigan,2016,3.7,Census,2 Doses,95.3
+20,Mississippi,2016,0.1,Census,2 Doses,99.4
+21,Montana,2016,3.7,Census,2 Doses,92.9
+22,Nebraska,2016,2.0,Census,2 Doses,95.8
+23,Nevada,2016,4.4,Stratified 2-stage cluster sample,2 Doses,90.5
+24,New Hampshire,2016,3.2,Census,2 Doses,91.5
+25,New Jersey,2016,1.9,Census,1 Dose,96.5
+26,New Mexico,2016,2.3,Stratified 2-stage cluster sample,2 Doses,94.6
+27,New York,2016,1.0,Census,2 Doses,96.9
+28,North Carolina,2016,1.8,Voluntary response,2 Doses,95.9
+29,North Dakota,2016,3.4,Census,2 Doses,93.5
+30,Ohio,2016,2.4,Census,2 Doses,91.9
+31,Oklahoma,2016,1.9,Census,,
+32,Oregon,2016,6.7,Census,1 Dose,95.0
+33,Pennsylvania,2016,2.3,Voluntary response,2 Doses,94.6
+34,Rhode Island,2016,1.2,Census,2 Doses,94.8
+35,South Carolina,2016,2.0,Stratified 1-stage cluster sample,2 Doses,95.7
+36,South Dakota,2016,2.0,Census,2 Doses,95.4
+37,Tennessee,2016,1.3,Census,2 Doses,96.7
+38,Texas,2016,1.8,Census,2 Doses,96.6
+39,Utah,2016,5.1,Census,2 Doses,94.6
+40,Vermont,2016,3.9,Census,2 Doses,92.5
+41,Virginia,2016,1.2,Census,2 Doses,92.7
+42,Washington,2016,4.8,Census,2 Doses,89.3
+43,West Virginia,2016,0.3,Census (public). voluntary response (private),2 Doses,92.6
+44,Wisconsin,2016,5.5,Census,2 Doses,92.8
+45,Alabama,2017,0.9,Census,1 Dose,92.7
+46,Alaska,2017,7.0,Stratified 2-stage cluster sample,2 Doses,91.3
+47,Arizona,2017,5.8,Census,1 Dose,96.2
+48,Arkansas,2017,1.7,Census ,2 Doses,91.6
+49,California,2017,0.7,Census,1 Dose,98.2
+50,Colorado,2017,4.7,Census,2 Doses,87.7
+51,Connecticut,2017,2.3,Census,2 Doses,96.3
+52,Delaware,2017,1.4,Stratified 2-stage cluster sample,2 Doses,96.7
+53,Florida,2017,2.9,Census,2 Doses,93.7
+54,Georgia,2017,2.7,Census,2 Doses,93.4
+55,Hawaii,2017,3.1,Stratified 2-stage cluster sample,1 Dose,96.2
+56,Idaho,2017,7.1,Census,2 Doses,88.6
+57,Illinois,2017,1.6,Census,2 Doses,94.8
+58,Indiana,2017,0.9,Voluntary Response,2 Doses,90.2
+59,Iowa,2017,2.0,Census,2 Doses,93.0
+60,Kansas,2017,1.7,Stratified 2-stage cluster sample,2 Doses,88.3
+61,Kentucky,2017,1.4,Census,2 Doses,91.7
+62,Louisiana,2017,1.1,Census,2 Doses,95.6
+63,Maine,2017,5.3,Census ,1 Dose,96.5
+64,Maryland,2017,1.5,Census,2 Doses,97.5
+65,Massachusetts,2017,1.3,Census,2 Doses,96.0
+66,Michigan,2017,4.2,Census,2 Doses,94.7
+67,Minnesota,2017,3.5,Census,2 Doses,92.2
+68,Mississippi,2017,0.1,Census,2 Doses,99.4
+69,Missouri,2017,2.3,Census,2 Doses,95.0
+70,Montana,2017,4.3,Census,2 Doses,91.6
+71,Nebraska,2017,2.2,Census,2 Doses,95.5
+72,Nevada,2017,3.2,Stratified 2-stage cluster sample,2 Doses,92.6
+73,New Hampshire,2017,2.9,Census,2 Doses,92.4
+74,New Jersey,2017,2.2,Census,1 Dose,96.1
+75,New Mexico,2017,1.7,Stratified 2-stage cluster sample,2 Doses,94.5
+76,New York,2017,1.1,Census,2 Doses,96.9
+77,North Carolina,2017,2.0,Census,2 Doses,96.8
+78,North Dakota,2017,3.4,Census,2 Doses,93.9
+79,Ohio,2017,2.6,Census,2 Doses,91.5
+80,Oklahoma,2017,2.2,Census (public). voluntary response (private),1 Dose,96.8
+81,Oregon,2017,7.6,Census,1 Dose,94.4
+82,Pennsylvania,2017,2.8,Voluntary response,2 Doses,97.0
+83,Rhode Island,2017,1.1,Census,2 Doses,96.0
+84,South Carolina,2017,2.0,Stratified 1-stage cluster sample,2 Doses,96.1
+85,South Dakota,2017,2.2,Census,2 Doses,95.8
+86,Tennessee,2017,1.5,Census,2 Doses,96.8
+87,Texas,2017,2.0,Census,2 Doses,96.4
+88,Utah,2017,5.3,Census,2 Doses,93.7
+89,Vermont,2017,3.8,Census,2 Doses,93.2
+90,Virginia,2017,1.5,Stratified 2-stage cluster sample,2 Doses,93.3
+91,Washington,2017,4.7,Census,2 Doses,89.4
+92,West Virginia,2017,0.2,Voluntary response,2 Doses,98.1
+93,Wisconsin,2017,5.4,Stratified 2-stage cluster sample,2 Doses,91.2
+94,Alabama,2018,0.8,Census,1 Dose,90.6
+95,Alaska,2018,7.1,Voluntary response,,
+96,Arizona,2018,6.0,Census,1 Dose,95.6
+97,Arkansas,2018,1.8,Census (public). voluntary response (private),2 Doses,93.8
+98,California,2018,0.6,Census,1 Dose,97.9
+99,Colorado,2018,4.9,Census,2 Doses,86.5
+100,Connecticut,2018,2.7,Census,2 Doses,95.7
+101,Delaware,2018,1.2,Stratified 2-stage cluster sample,2 Doses,97.6
+102,Florida,2018,3.2,Census,2 Doses,93.8
+103,Georgia,2018,2.5,Census,2 Doses,93.6
+104,Hawaii,2018,4.4,Stratified 2-stage cluster sample,1 Dose,94.0
+105,Idaho,2018,7.7,Census,2 Doses,88.3
+106,Illinois,2018,1.8,Census,2 Doses,94.4
+107,Indiana,2018,1.3,Census,2 Doses,93.5
+108,Iowa,2018,2.4,Census,2 Doses,93.3
+109,Kansas,2018,2.1,Stratified 2-stage cluster sample,2 Doses,89.2
+110,Kentucky,2018,1.4,Census,2 Doses,92.8
+111,Louisiana,2018,1.2,Census,2 Doses,95.4
+112,Maine,2018,6.2,Census,1 Dose,95.9
+113,Maryland,2018,1.5,Census,2 Doses,97.1
+114,Massachusetts,2018,1.4,Census,2 Doses,96.5
+115,Michigan,2018,4.5,Census,2 Doses,94.3
+116,Minnesota,2018,3.7,Census,2 Doses,92.0
+117,Mississippi,2018,0.1,Census,2 Doses,99.2
+118,Missouri,2018,2.7,Census,2 Doses,94.5
+119,Montana,2018,4.5,Census,2 Doses,92.9
+120,Nebraska,2018,2.1,Census,2 Doses,96.3
+121,Nevada,2018,3.3,Stratified 2-stage cluster sample,2 Doses,94.7
+122,New Hampshire,2018,3.3,Census,2 Doses,91.8
+123,New Jersey,2018,2.5,Census,1 Dose,95.0
+124,New Mexico,2018,1.5,Census,2 Doses,95.7
+125,New York,2018,1.3,Census,2 Doses,96.7
+126,North Carolina,2018,1.6,Census (public). voluntary response (private),2 Doses,93.1
+127,North Dakota,2018,4.3,Census,2 Doses,93.8
+128,Ohio,2018,2.9,Census (public). voluntary response (private),2 Doses,91.2
+129,Oklahoma,2018,2.6,Census (public). voluntary response (private),1 Dose,95.8
+130,Oregon,2018,7.7,Census,1 Dose,94.3
+131,Pennsylvania,2018,2.9,Census (public). voluntary response (private),2 Doses,95.8
+132,Rhode Island,2018,1.3,Census,2 Doses,97.0
+133,South Carolina,2018,2.6,Stratified 1-stage cluster sample,2 Doses,93.5
+134,South Dakota,2018,2.6,Census,2 Doses,95.5
+135,Tennessee,2018,1.9,Census,2 Doses,96.2
+136,Texas,2018,2.4,Census,2 Doses,96.5
+137,Utah,2018,5.7,Census,2 Doses,92.5
+138,Vermont,2018,4.7,Census,2 Doses,92.3
+139,Virginia,2018,1.7,Stratified 2-stage cluster sample,2 Doses,93.6
+140,Washington,2018,5.0,Census,2 Doses,89.7
+141,West Virginia,2018,0.8,Voluntary response,2 Doses,98.5
+142,Wisconsin,2018,5.9,Stratified 2-stage cluster sample,2 Doses,91.6
+143,Wyoming,2018,2.9,Census,2 Doses,94.7
+144,Alabama,2019,1.2,Census,1 Dose,86.6
+145,Alabama,2019,1.2,Census,2 Doses,NReq
+146,Alaska,2019,5.9,Voluntary response,1 Dose,NReq
+147,Alaska,2019,5.9,Voluntary response,2 Doses,NR
+148,Arizona,2019,5.5,Census (public). voluntary response (private),1 Dose,95.3
+149,Arizona,2019,5.5,Census (public). voluntary response (private),2 Doses,NReq
+150,Arkansas,2019,1.9,Census (public). voluntary response (private),1 Dose,NReq
+151,Arkansas,2019,1.9,Census (public). voluntary response (private),2 Doses,93.9
+152,California,2019,0.8,Census,1 Dose,NReq
+153,California,2019,0.8,Census,2 Doses,96.1
+154,Colorado,2019,4.9,Census,1 Dose,NReq
+155,Colorado,2019,4.9,Census,2 Doses,90.1
+156,Connecticut,2019,2.5,Census,1 Dose,NReq
+157,Connecticut,2019,2.5,Census,2 Doses,95.9
+158,Florida,2019,3.4,Census,1 Dose,NReq
+159,Florida,2019,3.4,Census,2 Doses,93.5
+160,Georgia,2019,3.0,Census,1 Dose,NReq
+161,Georgia,2019,3.0,Census,2 Doses,93.1
+162,Hawaii,2019,6.1,Stratified 2-stage cluster sample,1 Dose,91.8
+163,Hawaii,2019,6.1,Stratified 2-stage cluster sample,2 Doses,70.2
+164,Idaho,2019,7.6,Census,1 Dose,NReq
+165,Idaho,2019,7.6,Census,2 Doses,88.5
+166,Illinois,2019,2.0,Census,1 Dose,NReq
+167,Illinois,2019,2.0,Census,2 Doses,96.4
+168,Indiana,2019,2.2,Voluntary response,1 Dose,NReq
+169,Indiana,2019,2.2,Voluntary response,2 Doses,94.0
+170,Iowa,2019,2.5,Census,1 Dose,NReq
+171,Iowa,2019,2.5,Census,2 Doses,93.2
+172,Kansas,2019,2.1,Stratified 2-stage cluster sample,1 Dose,NReq
+173,Kansas,2019,2.1,Stratified 2-stage cluster sample,2 Doses,89.1
+174,Kentucky,2019,1.8,Census,1 Dose,NReq
+175,Kentucky,2019,1.8,Census,2 Doses,92.5
+176,Louisiana,2019,1.5,Census,1 Dose,NReq
+177,Louisiana,2019,1.5,Census,2 Doses,95.0
+178,Maine,2019,5.9,Census ,1 Dose,96.2
+179,Maine,2019,5.9,Census ,2 Doses,NReq
+180,Maryland,2019,1.4,Census (public). voluntary response (private),1 Dose,NReq
+181,Maryland,2019,1.4,Census (public). voluntary response (private),2 Doses,97.5
+182,Massachusetts,2019,1.3,Census,1 Dose,NReq
+183,Massachusetts,2019,1.3,Census,2 Doses,97.0
+184,Michigan,2019,4.4,Census,1 Dose,NReq
+185,Michigan,2019,4.4,Census,2 Doses,94.4
+186,Minnesota,2019,3.8,Census,1 Dose,NReq
+187,Minnesota,2019,3.8,Census,2 Doses,92.0
+188,Mississippi,2019,0.2,Census,1 Dose,NReq
+189,Mississippi,2019,0.2,Census,2 Doses,99.1
+190,Missouri,2019,2.7,Census,1 Dose,NReq
+191,Missouri,2019,2.7,Census,2 Doses,94.2
+192,Montana,2019,4.3,Census,1 Dose,NReq
+193,Montana,2019,4.3,Census,2 Doses,93.2
+194,Nebraska,2019,2.2,Census,1 Dose,NReq
+195,Nebraska,2019,2.2,Census,2 Doses,95.6
+196,Nevada,2019,4.0,Census,1 Dose,NReq
+197,Nevada,2019,4.0,Census,2 Doses,94.6
+198,New Hampshire,2019,3.1,Census,1 Dose,NReq
+199,New Hampshire,2019,3.1,Census,2 Doses,91.5
+200,New Jersey,2019,2.6,Census,1 Dose,95.9
+201,New Jersey,2019,2.6,Census,2 Doses,NReq
+202,New Mexico,2019,1.5,Census,1 Dose,NReq
+203,New Mexico,2019,1.5,Census,2 Doses,96.7
+204,New York,2019,0.1,Census,1 Dose,NReq
+205,New York,2019,0.1,Census,2 Doses,98.1
+206,North Carolina,2019,1.7,Census,1 Dose,NReq
+207,North Carolina,2019,1.7,Census,2 Doses,95.3
+208,North Dakota,2019,3.9,Census,1 Dose,NReq
+209,North Dakota,2019,3.9,Census,2 Doses,94.8
+210,Ohio,2019,2.8,Census,1 Dose,NReq
+211,Ohio,2019,2.8,Census,2 Doses,91.9
+212,Oklahoma,2019,2.7,Voluntary response,1 Dose,96.9
+213,Oklahoma,2019,2.7,Voluntary response,2 Doses,NReq
+214,Oregon,2019,7.1,Census,1 Dose,94.6
+215,Oregon,2019,7.1,Census,2 Doses,NReq
+216,Pennsylvania,2019,3.0,Census,1 Dose,NReq
+217,Pennsylvania,2019,3.0,Census,2 Doses,96.3
+218,Rhode Island,2019,1.3,Census,1 Dose,NReq
+219,Rhode Island,2019,1.3,Census,2 Doses,97.0
+220,South Carolina,2019,2.6,Stratified 1-stage cluster sample,1 Dose,NReq
+221,South Carolina,2019,2.6,Stratified 1-stage cluster sample,2 Doses,94.5
+222,South Dakota,2019,2.7,Census,1 Dose,NReq
+223,South Dakota,2019,2.7,Census,2 Doses,95.2
+224,Tennessee,2019,2.0,Census,1 Dose,NReq
+225,Tennessee,2019,2.0,Census,2 Doses,96.5
+226,Texas,2019,2.5,Census,1 Dose,NReq
+227,Texas,2019,2.5,Census,2 Doses,96.4
+228,Utah,2019,5.4,Census,1 Dose,NReq
+229,Utah,2019,5.4,Census,2 Doses,92.4
+230,Vermont,2019,3.7,Census,1 Dose,NReq
+231,Vermont,2019,3.7,Census,2 Doses,93.9
+232,Virginia,2019,1.7,Census,1 Dose,NReq
+233,Virginia,2019,1.7,Census,2 Doses,93.3
+234,Washington,2019,5.7,Census,1 Dose,NReq
+235,Washington,2019,5.7,Census,2 Doses,92.7
+236,West Virginia,2019,0.1,Voluntary response,1 Dose,NReq
+237,West Virginia,2019,0.1,Voluntary response,2 Doses,97.8
+238,Wisconsin,2019,5.7,Census,1 Dose,NReq
+239,Wisconsin,2019,5.7,Census,2 Doses,91.6
+240,Wyoming,2019,3.5,Census,1 Dose,NReq
+241,Wyoming,2019,3.5,Census,2 Doses,85.6
