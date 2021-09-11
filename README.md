@@ -19,8 +19,8 @@ https://data.cdc.gov/Vaccinations/Vaccination-Coverage-and-Exemptions-among-Kind
 
 To obtain the morbidity and mortality data, we used webscraping to download data for the morbidity and mortality of Varicella each year (2016-2019) using beautiful soup, and imported this into Pandas.  We then dropped other disease reported (e.g. Typhoid Fever).  We dropped all null values.  We then combined all yers into a CSV (chix_cases.csv).
 
-For the vaccine exemption, we downloaded the CSV and imported this to Pandas.  We filtered for only Varicella vaccine exemption, and filtered null values for number of exemptions.  We then filtered from 2016-2019 by look at the beginning of the reported school year) given the downloaded data.  We then exported this into a CSV.
+For the vaccine exemption, we downloaded the CSV and imported this to Pandas.  We filtered for Varicella and Exemption.  In addition, we removed randomed survey on basis of reporting.  We then filtered from 2016-2019 by look at the beginning of the reported school year given the downloaded data.  We then exported this into a CSV.
 
-Transform Continued
+### Continued Transformation
 
 After the tables were cleaned up to remove the extra columns, we exported them to cvs files. Once the tables were exported, we were then able to import them into sql to do joing. This required some more cleaning in terms of setting data types and column names. OUr two tables were then joined into one main table and exported.
