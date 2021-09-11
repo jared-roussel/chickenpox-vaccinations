@@ -1,1089 +1,273 @@
 Reporting Area,Varicella Morbidity,Varicella Mortality,Year
 United States,8953,3,2016
-New England,816,0,2016
-Connecticut,113,0,2016
-Maine,228,0,2016
+New England,816,—,2016
+Connecticut,113,—,2016
+Maine,228,—,2016
 Massachusetts,288,N,2016
-New Hampshire,85,0,2016
-Rhode Island,52,0,2016
-Vermont,50,0,2016
+New Hampshire,85,—,2016
+Rhode Island,52,—,2016
+Vermont,50,—,2016
 Middle Atlantic,1103,1,2016
-New Jersey,446,0,2016
+New Jersey,446,—,2016
 New York (excluding New York City),N,N,2016
-New York City,0,0,2016
+New York City,—,—,2016
 Pennsylvania,657,1,2016
-East North Central,2049,0,2016
-Illinois,469,0,2016
-Indiana,209,0,2016
-Michigan,531,0,2016
+East North Central,2049,—,2016
+Illinois,469,—,2016
+Indiana,209,—,2016
+Michigan,531,—,2016
 Ohio,450,N,2016
-Wisconsin,390,0,2016
-West North Central,817,0,2016
+Wisconsin,390,—,2016
+West North Central,817,—,2016
 Iowa,N,N,2016
-Kansas,230,0,2016
-Minnesota,336,0,2016
-Missouri,149,0,2016
-Nebraska,25,0,2016
-North Dakota,45,0,2016
-South Dakota,32,0,2016
-South Atlantic,1407,0,2016
-Delaware,12,0,2016
-District of Columbia,24,0,2016
-Florida,733,0,2016
-Georgia,169,0,2016
-Maryland,N,0,2016
+Kansas,230,—,2016
+Minnesota,336,—,2016
+Missouri,149,—,2016
+Nebraska,25,—,2016
+North Dakota,45,—,2016
+South Dakota,32,—,2016
+South Atlantic,1407,—,2016
+Delaware,12,—,2016
+District of Columbia,24,—,2016
+Florida,733,—,2016
+Georgia,169,—,2016
+Maryland,N,—,2016
 North Carolina,N,N,2016
-South Carolina,185,0,2016
+South Carolina,185,—,2016
 Virginia,284,N,2016
-West Virginia,N,0,2016
-East South Central,116,0,2016
-Alabama,107,0,2016
-Kentucky,N,0,2016
+West Virginia,N,—,2016
+East South Central,116,—,2016
+Alabama,107,—,2016
+Kentucky,N,—,2016
 Mississippi,9,N,2016
-Tennessee,N,0,2016
-West South Central,1559,0,2016
+Tennessee,N,—,2016
+West South Central,1559,—,2016
 Arkansas,140,N,2016
-Louisiana,78,0,2016
+Louisiana,78,—,2016
 Oklahoma,N,N,2016
-Texas,1341,0,2016
-Mountain,988,0,2016
-Arizona,279,0,2016
+Texas,1341,—,2016
+Mountain,988,—,2016
+Arizona,279,—,2016
 Colorado,331,N,2016
 Idaho,N,N,2016
-Montana,77,0,2016
+Montana,77,—,2016
 Nevada,N,N,2016
 New Mexico,58,N,2016
-Utah,229,0,2016
+Utah,229,—,2016
 Wyoming,14,N,2016
 Pacific,98,2,2016
-Alaska,19,0,2016
+Alaska,19,—,2016
 California,44,2,2016
-Hawaii,35,0,2016
+Hawaii,35,—,2016
 Oregon,N,N,2016
-Washington,N,0,2016
-Territories,102,0,2016
+Washington,N,—,2016
+Territories,102,—,2016
 American Samoa,N,N,2016
-Commonwealth of Northern Mariana Islands,0,0,2016
+Commonwealth of Northern Mariana Islands,—,—,2016
 Guam,19,N,2016
-Puerto Rico,83,0,2016
-U.S. Virgin Islands,0,0,2016
+Puerto Rico,83,—,2016
+U.S. Virgin Islands,—,—,2016
 United States,8775,2,2017
 New England,912,1,2017
 Connecticut,111,1,2017
-Maine,198,0,2017
-Massachusetts,386,0,2017
-New Hampshire,81,0,2017
-Rhode Island,74,0,2017
-Vermont,62,0,2017
-Middle Atlantic,1154,0,2017
-New Jersey,480,0,2017
-New York (excluding New York City),N,0,2017
-New York City,0,0,2017
-Pennsylvania,674,0,2017
-East North Central,1924,0,2017
-Illinois,412,0,2017
-Indiana,236,0,2017
-Michigan,542,0,2017
-Ohio,448,0,2017
-Wisconsin,286,0,2017
-West North Central,908,0,2017
-Iowa,N,0,2017
-Kansas,156,0,2017
-Minnesota,432,0,2017
-Missouri,196,0,2017
-Nebraska,37,0,2017
-North Dakota,63,0,2017
-South Dakota,24,0,2017
-South Atlantic,1422,0,2017
-Delaware,22,0,2017
-District of Columbia,21,0,2017
-Florida,656,0,2017
-Georgia,240,0,2017
-Maryland,N,0,2017
-North Carolina,N,0,2017
-South Carolina,147,0,2017
-Virginia,336,0,2017
-West Virginia,N,0,2017
-East South Central,118,0,2017
-Alabama,94,0,2017
-Kentucky,15,0,2017
-Mississippi,9,0,2017
-Tennessee,N,0,2017
-West South Central,1339,0,2017
-Arkansas,136,0,2017
-Louisiana,59,0,2017
-Oklahoma,N,0,2017
-Texas,1144,0,2017
-Mountain,850,0,2017
-Arizona,189,0,2017
-Colorado,272,0,2017
-Idaho,N,0,2017
-Montana,54,0,2017
-Nevada,N,0,2017
-New Mexico,71,0,2017
-Utah,253,0,2017
-Wyoming,11,0,2017
+Maine,198,—,2017
+Massachusetts,386,—,2017
+New Hampshire,81,—,2017
+Rhode Island,74,—,2017
+Vermont,62,—,2017
+Middle Atlantic,1154,—,2017
+New Jersey,480,—,2017
+New York (excluding New York City),N,—,2017
+New York City,—,—,2017
+Pennsylvania,674,—,2017
+East North Central,1924,—,2017
+Illinois,412,—,2017
+Indiana,236,—,2017
+Michigan,542,—,2017
+Ohio,448,—,2017
+Wisconsin,286,—,2017
+West North Central,908,—,2017
+Iowa,N,—,2017
+Kansas,156,—,2017
+Minnesota,432,—,2017
+Missouri,196,—,2017
+Nebraska,37,—,2017
+North Dakota,63,—,2017
+South Dakota,24,—,2017
+South Atlantic,1422,—,2017
+Delaware,22,—,2017
+District of Columbia,21,—,2017
+Florida,656,—,2017
+Georgia,240,—,2017
+Maryland,N,—,2017
+North Carolina,N,—,2017
+South Carolina,147,—,2017
+Virginia,336,—,2017
+West Virginia,N,—,2017
+East South Central,118,—,2017
+Alabama,94,—,2017
+Kentucky,15,—,2017
+Mississippi,9,—,2017
+Tennessee,N,—,2017
+West South Central,1339,—,2017
+Arkansas,136,—,2017
+Louisiana,59,—,2017
+Oklahoma,N,—,2017
+Texas,1144,—,2017
+Mountain,850,—,2017
+Arizona,189,—,2017
+Colorado,272,—,2017
+Idaho,N,—,2017
+Montana,54,—,2017
+Nevada,N,—,2017
+New Mexico,71,—,2017
+Utah,253,—,2017
+Wyoming,11,—,2017
 Pacific,148,1,2017
-Alaska,45,0,2017
-California,42,0,2017
-Hawaii,61,0,2017
+Alaska,45,—,2017
+California,42,—,2017
+Hawaii,61,—,2017
 Oregon,N,1,2017
-Washington,N,0,2017
-Territories,74,0,2017
-American Samoa,N,0,2017
-Commonwealth of Northern Mariana Islands,0,0,2017
-Guam,1,0,2017
-Puerto Rico,73,0,2017
-U.S. Virgin Islands,0,0,2017
+Washington,N,—,2017
+Territories,74,—,2017
+American Samoa,N,—,2017
+Commonwealth of Northern Mariana Islands,—,—,2017
+Guam,1,—,2017
+Puerto Rico,73,—,2017
+U.S. Virgin Islands,—,—,2017
 United States,8201,6,2018
-New England,933,0,2018
-Connecticut,179,0,2018
-Maine,252,0,2018
-Massachusetts,289,0,2018
-New Hampshire,98,0,2018
-Rhode Island,66,0,2018
-Vermont,49,0,2018
+New England,933,—,2018
+Connecticut,179,—,2018
+Maine,252,—,2018
+Massachusetts,289,—,2018
+New Hampshire,98,—,2018
+Rhode Island,66,—,2018
+Vermont,49,—,2018
 Middle Atlantic,947,1,2018
-New Jersey,376,0,2018
+New Jersey,376,—,2018
 New York (excluding New York City),N,1,2018
-New York City,0,0,2018
-Pennsylvania,571,0,2018
+New York City,—,—,2018
+Pennsylvania,571,—,2018
 East North Central,1765,1,2018
-Illinois,394,0,2018
-Indiana,172,0,2018
+Illinois,394,—,2018
+Indiana,172,—,2018
 Michigan,434,1,2018
-Ohio,476,0,2018
-Wisconsin,289,0,2018
-West North Central,613,0,2018
-Iowa,N,0,2018
-Kansas,0,0,2018
-Minnesota,324,0,2018
-Missouri,168,0,2018
-Nebraska,42,0,2018
-North Dakota,48,0,2018
-South Dakota,31,0,2018
+Ohio,476,—,2018
+Wisconsin,289,—,2018
+West North Central,613,—,2018
+Iowa,N,—,2018
+Kansas,—,—,2018
+Minnesota,324,—,2018
+Missouri,168,—,2018
+Nebraska,42,—,2018
+North Dakota,48,—,2018
+South Dakota,31,—,2018
 South Atlantic,1682,1,2018
-Delaware,32,0,2018
-District of Columbia,31,0,2018
+Delaware,32,—,2018
+District of Columbia,31,—,2018
 Florida,853,1,2018
-Georgia,262,0,2018
-Maryland,N,0,2018
-North Carolina,N,0,2018
-South Carolina,152,0,2018
-Virginia,352,0,2018
-West Virginia,N,0,2018
-East South Central,153,0,2018
-Alabama,78,0,2018
-Kentucky,34,0,2018
-Mississippi,41,0,2018
-Tennessee,N,0,2018
-West South Central,1147,0,2018
-Arkansas,72,0,2018
-Louisiana,103,0,2018
-Oklahoma,N,0,2018
-Texas,972,0,2018
+Georgia,262,—,2018
+Maryland,N,—,2018
+North Carolina,N,—,2018
+South Carolina,152,—,2018
+Virginia,352,—,2018
+West Virginia,N,—,2018
+East South Central,153,—,2018
+Alabama,78,—,2018
+Kentucky,34,—,2018
+Mississippi,41,—,2018
+Tennessee,N,—,2018
+West South Central,1147,—,2018
+Arkansas,72,—,2018
+Louisiana,103,—,2018
+Oklahoma,N,—,2018
+Texas,972,—,2018
 Mountain,848,2,2018
-Arizona,245,0,2018
+Arizona,245,—,2018
 Colorado,269,1,2018
-Idaho,N,0,2018
+Idaho,N,—,2018
 Montana,57,1,2018
-Nevada,N,0,2018
-New Mexico,60,0,2018
-Utah,196,0,2018
-Wyoming,21,0,2018
+Nevada,N,—,2018
+New Mexico,60,—,2018
+Utah,196,—,2018
+Wyoming,21,—,2018
 Pacific,113,1,2018
-Alaska,34,0,2018
+Alaska,34,—,2018
 California,40,1,2018
-Hawaii,39,0,2018
-Oregon,N,0,2018
-Washington,N,0,2018
-Territories,89,0,2018
-American Samoa,N,0,2018
-Commonwealth of Northern Mariana Islands,0,0,2018
-Guam,15,0,2018
-Puerto Rico,74,0,2018
-U.S. Virgin Islands,0,0,2018
+Hawaii,39,—,2018
+Oregon,N,—,2018
+Washington,N,—,2018
+Territories,89,—,2018
+American Samoa,N,—,2018
+Commonwealth of Northern Mariana Islands,—,—,2018
+Guam,15,—,2018
+Puerto Rico,74,—,2018
+U.S. Virgin Islands,—,—,2018
 "U.S. Residents, excluding U.S. Territories",8297,6,2019
-New England,647,0,2019
-Connecticut,117,0,2019
-Maine,93,0,2019
-Massachusetts,301,0,2019
-New Hampshire,26,0,2019
-Rhode Island,64,0,2019
-Vermont,46,0,2019
+New England,647,—,2019
+Connecticut,117,—,2019
+Maine,93,—,2019
+Massachusetts,301,—,2019
+New Hampshire,26,—,2019
+Rhode Island,64,—,2019
+Vermont,46,—,2019
 Middle Atlantic,846,2,2019
 New Jersey,377,1,2019
 New York (excluding New York City),N,1,2019
-New York City,0,0,2019
-Pennsylvania,469,0,2019
-East North Central,1751,0,2019
-Illinois,399,0,2019
-Indiana,218,0,2019
-Michigan,410,0,2019
-Ohio,412,0,2019
-Wisconsin,312,0,2019
-West North Central,644,0,2019
-Iowa,N,0,2019
-Kansas,0,0,2019
-Minnesota,366,0,2019
-Missouri,168,0,2019
-Nebraska,54,0,2019
-North Dakota,30,0,2019
-South Dakota,26,0,2019
+New York City,—,—,2019
+Pennsylvania,469,—,2019
+East North Central,1751,—,2019
+Illinois,399,—,2019
+Indiana,218,—,2019
+Michigan,410,—,2019
+Ohio,412,—,2019
+Wisconsin,312,—,2019
+West North Central,644,—,2019
+Iowa,N,—,2019
+Kansas,—,—,2019
+Minnesota,366,—,2019
+Missouri,168,—,2019
+Nebraska,54,—,2019
+North Dakota,30,—,2019
+South Dakota,26,—,2019
 South Atlantic,1826,2,2019
-Delaware,28,0,2019
-District of Columbia,30,0,2019
+Delaware,28,—,2019
+District of Columbia,30,—,2019
 Florida,983,1,2019
-Georgia,233,0,2019
+Georgia,233,—,2019
 Maryland,N,1,2019
-North Carolina,N,0,2019
-South Carolina,152,0,2019
-Virginia,400,0,2019
-West Virginia,N,0,2019
+North Carolina,N,—,2019
+South Carolina,152,—,2019
+Virginia,400,—,2019
+West Virginia,N,—,2019
 East South Central,206,1,2019
-Alabama,92,0,2019
-Kentucky,57,0,2019
+Alabama,92,—,2019
+Kentucky,57,—,2019
 Mississippi,57,1,2019
-Tennessee,N,0,2019
-West South Central,1411,0,2019
-Arkansas,119,0,2019
-Louisiana,67,0,2019
-Oklahoma,N,0,2019
-Texas,1225,0,2019
-Mountain,849,0,2019
-Arizona,307,0,2019
-Colorado,250,0,2019
-Idaho,N,0,2019
-Montana,47,0,2019
-Nevada,N,0,2019
-New Mexico,73,0,2019
-Utah,163,0,2019
-Wyoming,9,0,2019
+Tennessee,N,—,2019
+West South Central,1411,—,2019
+Arkansas,119,—,2019
+Louisiana,67,—,2019
+Oklahoma,N,—,2019
+Texas,1225,—,2019
+Mountain,849,—,2019
+Arizona,307,—,2019
+Colorado,250,—,2019
+Idaho,N,—,2019
+Montana,47,—,2019
+Nevada,N,—,2019
+New Mexico,73,—,2019
+Utah,163,—,2019
+Wyoming,9,—,2019
 Pacific,117,1,2019
-Alaska,36,0,2019
-California,39,0,2019
-Hawaii,42,0,2019
+Alaska,36,—,2019
+California,39,—,2019
+Hawaii,42,—,2019
 Oregon,N,1,2019
-Washington,N,0,2019
-U.S. Territories,111,0,2019
-American Samoa,N,0,2019
-Commonwealth of Northern Mariana Islands,0,0,2019
-Guam,18,0,2019
-Puerto Rico,83,0,2019
-U.S. Virgin Islands,10,0,2019
-United States,8953,3,2016
-New England,816,0,2016
-Connecticut,113,0,2016
-Maine,228,0,2016
-Massachusetts,288,N,2016
-New Hampshire,85,0,2016
-Rhode Island,52,0,2016
-Vermont,50,0,2016
-Middle Atlantic,1103,1,2016
-New Jersey,446,0,2016
-New York (excluding New York City),N,N,2016
-New York City,0,0,2016
-Pennsylvania,657,1,2016
-East North Central,2049,0,2016
-Illinois,469,0,2016
-Indiana,209,0,2016
-Michigan,531,0,2016
-Ohio,450,N,2016
-Wisconsin,390,0,2016
-West North Central,817,0,2016
-Iowa,N,N,2016
-Kansas,230,0,2016
-Minnesota,336,0,2016
-Missouri,149,0,2016
-Nebraska,25,0,2016
-North Dakota,45,0,2016
-South Dakota,32,0,2016
-South Atlantic,1407,0,2016
-Delaware,12,0,2016
-District of Columbia,24,0,2016
-Florida,733,0,2016
-Georgia,169,0,2016
-Maryland,N,0,2016
-North Carolina,N,N,2016
-South Carolina,185,0,2016
-Virginia,284,N,2016
-West Virginia,N,0,2016
-East South Central,116,0,2016
-Alabama,107,0,2016
-Kentucky,N,0,2016
-Mississippi,9,N,2016
-Tennessee,N,0,2016
-West South Central,1559,0,2016
-Arkansas,140,N,2016
-Louisiana,78,0,2016
-Oklahoma,N,N,2016
-Texas,1341,0,2016
-Mountain,988,0,2016
-Arizona,279,0,2016
-Colorado,331,N,2016
-Idaho,N,N,2016
-Montana,77,0,2016
-Nevada,N,N,2016
-New Mexico,58,N,2016
-Utah,229,0,2016
-Wyoming,14,N,2016
-Pacific,98,2,2016
-Alaska,19,0,2016
-California,44,2,2016
-Hawaii,35,0,2016
-Oregon,N,N,2016
-Washington,N,0,2016
-Territories,102,0,2016
-American Samoa,N,N,2016
-Commonwealth of Northern Mariana Islands,0,0,2016
-Guam,19,N,2016
-Puerto Rico,83,0,2016
-U.S. Virgin Islands,0,0,2016
-United States,8775,2,2017
-New England,912,1,2017
-Connecticut,111,1,2017
-Maine,198,0,2017
-Massachusetts,386,0,2017
-New Hampshire,81,0,2017
-Rhode Island,74,0,2017
-Vermont,62,0,2017
-Middle Atlantic,1154,0,2017
-New Jersey,480,0,2017
-New York (excluding New York City),N,0,2017
-New York City,0,0,2017
-Pennsylvania,674,0,2017
-East North Central,1924,0,2017
-Illinois,412,0,2017
-Indiana,236,0,2017
-Michigan,542,0,2017
-Ohio,448,0,2017
-Wisconsin,286,0,2017
-West North Central,908,0,2017
-Iowa,N,0,2017
-Kansas,156,0,2017
-Minnesota,432,0,2017
-Missouri,196,0,2017
-Nebraska,37,0,2017
-North Dakota,63,0,2017
-South Dakota,24,0,2017
-South Atlantic,1422,0,2017
-Delaware,22,0,2017
-District of Columbia,21,0,2017
-Florida,656,0,2017
-Georgia,240,0,2017
-Maryland,N,0,2017
-North Carolina,N,0,2017
-South Carolina,147,0,2017
-Virginia,336,0,2017
-West Virginia,N,0,2017
-East South Central,118,0,2017
-Alabama,94,0,2017
-Kentucky,15,0,2017
-Mississippi,9,0,2017
-Tennessee,N,0,2017
-West South Central,1339,0,2017
-Arkansas,136,0,2017
-Louisiana,59,0,2017
-Oklahoma,N,0,2017
-Texas,1144,0,2017
-Mountain,850,0,2017
-Arizona,189,0,2017
-Colorado,272,0,2017
-Idaho,N,0,2017
-Montana,54,0,2017
-Nevada,N,0,2017
-New Mexico,71,0,2017
-Utah,253,0,2017
-Wyoming,11,0,2017
-Pacific,148,1,2017
-Alaska,45,0,2017
-California,42,0,2017
-Hawaii,61,0,2017
-Oregon,N,1,2017
-Washington,N,0,2017
-Territories,74,0,2017
-American Samoa,N,0,2017
-Commonwealth of Northern Mariana Islands,0,0,2017
-Guam,1,0,2017
-Puerto Rico,73,0,2017
-U.S. Virgin Islands,0,0,2017
-United States,8201,6,2018
-New England,933,0,2018
-Connecticut,179,0,2018
-Maine,252,0,2018
-Massachusetts,289,0,2018
-New Hampshire,98,0,2018
-Rhode Island,66,0,2018
-Vermont,49,0,2018
-Middle Atlantic,947,1,2018
-New Jersey,376,0,2018
-New York (excluding New York City),N,1,2018
-New York City,0,0,2018
-Pennsylvania,571,0,2018
-East North Central,1765,1,2018
-Illinois,394,0,2018
-Indiana,172,0,2018
-Michigan,434,1,2018
-Ohio,476,0,2018
-Wisconsin,289,0,2018
-West North Central,613,0,2018
-Iowa,N,0,2018
-Kansas,0,0,2018
-Minnesota,324,0,2018
-Missouri,168,0,2018
-Nebraska,42,0,2018
-North Dakota,48,0,2018
-South Dakota,31,0,2018
-South Atlantic,1682,1,2018
-Delaware,32,0,2018
-District of Columbia,31,0,2018
-Florida,853,1,2018
-Georgia,262,0,2018
-Maryland,N,0,2018
-North Carolina,N,0,2018
-South Carolina,152,0,2018
-Virginia,352,0,2018
-West Virginia,N,0,2018
-East South Central,153,0,2018
-Alabama,78,0,2018
-Kentucky,34,0,2018
-Mississippi,41,0,2018
-Tennessee,N,0,2018
-West South Central,1147,0,2018
-Arkansas,72,0,2018
-Louisiana,103,0,2018
-Oklahoma,N,0,2018
-Texas,972,0,2018
-Mountain,848,2,2018
-Arizona,245,0,2018
-Colorado,269,1,2018
-Idaho,N,0,2018
-Montana,57,1,2018
-Nevada,N,0,2018
-New Mexico,60,0,2018
-Utah,196,0,2018
-Wyoming,21,0,2018
-Pacific,113,1,2018
-Alaska,34,0,2018
-California,40,1,2018
-Hawaii,39,0,2018
-Oregon,N,0,2018
-Washington,N,0,2018
-Territories,89,0,2018
-American Samoa,N,0,2018
-Commonwealth of Northern Mariana Islands,0,0,2018
-Guam,15,0,2018
-Puerto Rico,74,0,2018
-U.S. Virgin Islands,0,0,2018
-"U.S. Residents, excluding U.S. Territories",8297,6,2019
-New England,647,0,2019
-Connecticut,117,0,2019
-Maine,93,0,2019
-Massachusetts,301,0,2019
-New Hampshire,26,0,2019
-Rhode Island,64,0,2019
-Vermont,46,0,2019
-Middle Atlantic,846,2,2019
-New Jersey,377,1,2019
-New York (excluding New York City),N,1,2019
-New York City,0,0,2019
-Pennsylvania,469,0,2019
-East North Central,1751,0,2019
-Illinois,399,0,2019
-Indiana,218,0,2019
-Michigan,410,0,2019
-Ohio,412,0,2019
-Wisconsin,312,0,2019
-West North Central,644,0,2019
-Iowa,N,0,2019
-Kansas,0,0,2019
-Minnesota,366,0,2019
-Missouri,168,0,2019
-Nebraska,54,0,2019
-North Dakota,30,0,2019
-South Dakota,26,0,2019
-South Atlantic,1826,2,2019
-Delaware,28,0,2019
-District of Columbia,30,0,2019
-Florida,983,1,2019
-Georgia,233,0,2019
-Maryland,N,1,2019
-North Carolina,N,0,2019
-South Carolina,152,0,2019
-Virginia,400,0,2019
-West Virginia,N,0,2019
-East South Central,206,1,2019
-Alabama,92,0,2019
-Kentucky,57,0,2019
-Mississippi,57,1,2019
-Tennessee,N,0,2019
-West South Central,1411,0,2019
-Arkansas,119,0,2019
-Louisiana,67,0,2019
-Oklahoma,N,0,2019
-Texas,1225,0,2019
-Mountain,849,0,2019
-Arizona,307,0,2019
-Colorado,250,0,2019
-Idaho,N,0,2019
-Montana,47,0,2019
-Nevada,N,0,2019
-New Mexico,73,0,2019
-Utah,163,0,2019
-Wyoming,9,0,2019
-Pacific,117,1,2019
-Alaska,36,0,2019
-California,39,0,2019
-Hawaii,42,0,2019
-Oregon,N,1,2019
-Washington,N,0,2019
-U.S. Territories,111,0,2019
-American Samoa,N,0,2019
-Commonwealth of Northern Mariana Islands,0,0,2019
-Guam,18,0,2019
-Puerto Rico,83,0,2019
-U.S. Virgin Islands,10,0,2019
-United States,8953,3,2016
-New England,816,0,2016
-Connecticut,113,0,2016
-Maine,228,0,2016
-Massachusetts,288,N,2016
-New Hampshire,85,0,2016
-Rhode Island,52,0,2016
-Vermont,50,0,2016
-Middle Atlantic,1103,1,2016
-New Jersey,446,0,2016
-New York (excluding New York City),N,N,2016
-New York City,0,0,2016
-Pennsylvania,657,1,2016
-East North Central,2049,0,2016
-Illinois,469,0,2016
-Indiana,209,0,2016
-Michigan,531,0,2016
-Ohio,450,N,2016
-Wisconsin,390,0,2016
-West North Central,817,0,2016
-Iowa,N,N,2016
-Kansas,230,0,2016
-Minnesota,336,0,2016
-Missouri,149,0,2016
-Nebraska,25,0,2016
-North Dakota,45,0,2016
-South Dakota,32,0,2016
-South Atlantic,1407,0,2016
-Delaware,12,0,2016
-District of Columbia,24,0,2016
-Florida,733,0,2016
-Georgia,169,0,2016
-Maryland,N,0,2016
-North Carolina,N,N,2016
-South Carolina,185,0,2016
-Virginia,284,N,2016
-West Virginia,N,0,2016
-East South Central,116,0,2016
-Alabama,107,0,2016
-Kentucky,N,0,2016
-Mississippi,9,N,2016
-Tennessee,N,0,2016
-West South Central,1559,0,2016
-Arkansas,140,N,2016
-Louisiana,78,0,2016
-Oklahoma,N,N,2016
-Texas,1341,0,2016
-Mountain,988,0,2016
-Arizona,279,0,2016
-Colorado,331,N,2016
-Idaho,N,N,2016
-Montana,77,0,2016
-Nevada,N,N,2016
-New Mexico,58,N,2016
-Utah,229,0,2016
-Wyoming,14,N,2016
-Pacific,98,2,2016
-Alaska,19,0,2016
-California,44,2,2016
-Hawaii,35,0,2016
-Oregon,N,N,2016
-Washington,N,0,2016
-Territories,102,0,2016
-American Samoa,N,N,2016
-Commonwealth of Northern Mariana Islands,0,0,2016
-Guam,19,N,2016
-Puerto Rico,83,0,2016
-U.S. Virgin Islands,0,0,2016
-United States,8775,2,2017
-New England,912,1,2017
-Connecticut,111,1,2017
-Maine,198,0,2017
-Massachusetts,386,0,2017
-New Hampshire,81,0,2017
-Rhode Island,74,0,2017
-Vermont,62,0,2017
-Middle Atlantic,1154,0,2017
-New Jersey,480,0,2017
-New York (excluding New York City),N,0,2017
-New York City,0,0,2017
-Pennsylvania,674,0,2017
-East North Central,1924,0,2017
-Illinois,412,0,2017
-Indiana,236,0,2017
-Michigan,542,0,2017
-Ohio,448,0,2017
-Wisconsin,286,0,2017
-West North Central,908,0,2017
-Iowa,N,0,2017
-Kansas,156,0,2017
-Minnesota,432,0,2017
-Missouri,196,0,2017
-Nebraska,37,0,2017
-North Dakota,63,0,2017
-South Dakota,24,0,2017
-South Atlantic,1422,0,2017
-Delaware,22,0,2017
-District of Columbia,21,0,2017
-Florida,656,0,2017
-Georgia,240,0,2017
-Maryland,N,0,2017
-North Carolina,N,0,2017
-South Carolina,147,0,2017
-Virginia,336,0,2017
-West Virginia,N,0,2017
-East South Central,118,0,2017
-Alabama,94,0,2017
-Kentucky,15,0,2017
-Mississippi,9,0,2017
-Tennessee,N,0,2017
-West South Central,1339,0,2017
-Arkansas,136,0,2017
-Louisiana,59,0,2017
-Oklahoma,N,0,2017
-Texas,1144,0,2017
-Mountain,850,0,2017
-Arizona,189,0,2017
-Colorado,272,0,2017
-Idaho,N,0,2017
-Montana,54,0,2017
-Nevada,N,0,2017
-New Mexico,71,0,2017
-Utah,253,0,2017
-Wyoming,11,0,2017
-Pacific,148,1,2017
-Alaska,45,0,2017
-California,42,0,2017
-Hawaii,61,0,2017
-Oregon,N,1,2017
-Washington,N,0,2017
-Territories,74,0,2017
-American Samoa,N,0,2017
-Commonwealth of Northern Mariana Islands,0,0,2017
-Guam,1,0,2017
-Puerto Rico,73,0,2017
-U.S. Virgin Islands,0,0,2017
-United States,8201,6,2018
-New England,933,0,2018
-Connecticut,179,0,2018
-Maine,252,0,2018
-Massachusetts,289,0,2018
-New Hampshire,98,0,2018
-Rhode Island,66,0,2018
-Vermont,49,0,2018
-Middle Atlantic,947,1,2018
-New Jersey,376,0,2018
-New York (excluding New York City),N,1,2018
-New York City,0,0,2018
-Pennsylvania,571,0,2018
-East North Central,1765,1,2018
-Illinois,394,0,2018
-Indiana,172,0,2018
-Michigan,434,1,2018
-Ohio,476,0,2018
-Wisconsin,289,0,2018
-West North Central,613,0,2018
-Iowa,N,0,2018
-Kansas,0,0,2018
-Minnesota,324,0,2018
-Missouri,168,0,2018
-Nebraska,42,0,2018
-North Dakota,48,0,2018
-South Dakota,31,0,2018
-South Atlantic,1682,1,2018
-Delaware,32,0,2018
-District of Columbia,31,0,2018
-Florida,853,1,2018
-Georgia,262,0,2018
-Maryland,N,0,2018
-North Carolina,N,0,2018
-South Carolina,152,0,2018
-Virginia,352,0,2018
-West Virginia,N,0,2018
-East South Central,153,0,2018
-Alabama,78,0,2018
-Kentucky,34,0,2018
-Mississippi,41,0,2018
-Tennessee,N,0,2018
-West South Central,1147,0,2018
-Arkansas,72,0,2018
-Louisiana,103,0,2018
-Oklahoma,N,0,2018
-Texas,972,0,2018
-Mountain,848,2,2018
-Arizona,245,0,2018
-Colorado,269,1,2018
-Idaho,N,0,2018
-Montana,57,1,2018
-Nevada,N,0,2018
-New Mexico,60,0,2018
-Utah,196,0,2018
-Wyoming,21,0,2018
-Pacific,113,1,2018
-Alaska,34,0,2018
-California,40,1,2018
-Hawaii,39,0,2018
-Oregon,N,0,2018
-Washington,N,0,2018
-Territories,89,0,2018
-American Samoa,N,0,2018
-Commonwealth of Northern Mariana Islands,0,0,2018
-Guam,15,0,2018
-Puerto Rico,74,0,2018
-U.S. Virgin Islands,0,0,2018
-"U.S. Residents, excluding U.S. Territories",8297,6,2019
-New England,647,0,2019
-Connecticut,117,0,2019
-Maine,93,0,2019
-Massachusetts,301,0,2019
-New Hampshire,26,0,2019
-Rhode Island,64,0,2019
-Vermont,46,0,2019
-Middle Atlantic,846,2,2019
-New Jersey,377,1,2019
-New York (excluding New York City),N,1,2019
-New York City,0,0,2019
-Pennsylvania,469,0,2019
-East North Central,1751,0,2019
-Illinois,399,0,2019
-Indiana,218,0,2019
-Michigan,410,0,2019
-Ohio,412,0,2019
-Wisconsin,312,0,2019
-West North Central,644,0,2019
-Iowa,N,0,2019
-Kansas,0,0,2019
-Minnesota,366,0,2019
-Missouri,168,0,2019
-Nebraska,54,0,2019
-North Dakota,30,0,2019
-South Dakota,26,0,2019
-South Atlantic,1826,2,2019
-Delaware,28,0,2019
-District of Columbia,30,0,2019
-Florida,983,1,2019
-Georgia,233,0,2019
-Maryland,N,1,2019
-North Carolina,N,0,2019
-South Carolina,152,0,2019
-Virginia,400,0,2019
-West Virginia,N,0,2019
-East South Central,206,1,2019
-Alabama,92,0,2019
-Kentucky,57,0,2019
-Mississippi,57,1,2019
-Tennessee,N,0,2019
-West South Central,1411,0,2019
-Arkansas,119,0,2019
-Louisiana,67,0,2019
-Oklahoma,N,0,2019
-Texas,1225,0,2019
-Mountain,849,0,2019
-Arizona,307,0,2019
-Colorado,250,0,2019
-Idaho,N,0,2019
-Montana,47,0,2019
-Nevada,N,0,2019
-New Mexico,73,0,2019
-Utah,163,0,2019
-Wyoming,9,0,2019
-Pacific,117,1,2019
-Alaska,36,0,2019
-California,39,0,2019
-Hawaii,42,0,2019
-Oregon,N,1,2019
-Washington,N,0,2019
-U.S. Territories,111,0,2019
-American Samoa,N,0,2019
-Commonwealth of Northern Mariana Islands,0,0,2019
-Guam,18,0,2019
-Puerto Rico,83,0,2019
-U.S. Virgin Islands,10,0,2019
-United States,8953,3,2016
-New England,816,0,2016
-Connecticut,113,0,2016
-Maine,228,0,2016
-Massachusetts,288,N,2016
-New Hampshire,85,0,2016
-Rhode Island,52,0,2016
-Vermont,50,0,2016
-Middle Atlantic,1103,1,2016
-New Jersey,446,0,2016
-New York (excluding New York City),N,N,2016
-New York City,0,0,2016
-Pennsylvania,657,1,2016
-East North Central,2049,0,2016
-Illinois,469,0,2016
-Indiana,209,0,2016
-Michigan,531,0,2016
-Ohio,450,N,2016
-Wisconsin,390,0,2016
-West North Central,817,0,2016
-Iowa,N,N,2016
-Kansas,230,0,2016
-Minnesota,336,0,2016
-Missouri,149,0,2016
-Nebraska,25,0,2016
-North Dakota,45,0,2016
-South Dakota,32,0,2016
-South Atlantic,1407,0,2016
-Delaware,12,0,2016
-District of Columbia,24,0,2016
-Florida,733,0,2016
-Georgia,169,0,2016
-Maryland,N,0,2016
-North Carolina,N,N,2016
-South Carolina,185,0,2016
-Virginia,284,N,2016
-West Virginia,N,0,2016
-East South Central,116,0,2016
-Alabama,107,0,2016
-Kentucky,N,0,2016
-Mississippi,9,N,2016
-Tennessee,N,0,2016
-West South Central,1559,0,2016
-Arkansas,140,N,2016
-Louisiana,78,0,2016
-Oklahoma,N,N,2016
-Texas,1341,0,2016
-Mountain,988,0,2016
-Arizona,279,0,2016
-Colorado,331,N,2016
-Idaho,N,N,2016
-Montana,77,0,2016
-Nevada,N,N,2016
-New Mexico,58,N,2016
-Utah,229,0,2016
-Wyoming,14,N,2016
-Pacific,98,2,2016
-Alaska,19,0,2016
-California,44,2,2016
-Hawaii,35,0,2016
-Oregon,N,N,2016
-Washington,N,0,2016
-Territories,102,0,2016
-American Samoa,N,N,2016
-Commonwealth of Northern Mariana Islands,0,0,2016
-Guam,19,N,2016
-Puerto Rico,83,0,2016
-U.S. Virgin Islands,0,0,2016
-United States,8775,2,2017
-New England,912,1,2017
-Connecticut,111,1,2017
-Maine,198,0,2017
-Massachusetts,386,0,2017
-New Hampshire,81,0,2017
-Rhode Island,74,0,2017
-Vermont,62,0,2017
-Middle Atlantic,1154,0,2017
-New Jersey,480,0,2017
-New York (excluding New York City),N,0,2017
-New York City,0,0,2017
-Pennsylvania,674,0,2017
-East North Central,1924,0,2017
-Illinois,412,0,2017
-Indiana,236,0,2017
-Michigan,542,0,2017
-Ohio,448,0,2017
-Wisconsin,286,0,2017
-West North Central,908,0,2017
-Iowa,N,0,2017
-Kansas,156,0,2017
-Minnesota,432,0,2017
-Missouri,196,0,2017
-Nebraska,37,0,2017
-North Dakota,63,0,2017
-South Dakota,24,0,2017
-South Atlantic,1422,0,2017
-Delaware,22,0,2017
-District of Columbia,21,0,2017
-Florida,656,0,2017
-Georgia,240,0,2017
-Maryland,N,0,2017
-North Carolina,N,0,2017
-South Carolina,147,0,2017
-Virginia,336,0,2017
-West Virginia,N,0,2017
-East South Central,118,0,2017
-Alabama,94,0,2017
-Kentucky,15,0,2017
-Mississippi,9,0,2017
-Tennessee,N,0,2017
-West South Central,1339,0,2017
-Arkansas,136,0,2017
-Louisiana,59,0,2017
-Oklahoma,N,0,2017
-Texas,1144,0,2017
-Mountain,850,0,2017
-Arizona,189,0,2017
-Colorado,272,0,2017
-Idaho,N,0,2017
-Montana,54,0,2017
-Nevada,N,0,2017
-New Mexico,71,0,2017
-Utah,253,0,2017
-Wyoming,11,0,2017
-Pacific,148,1,2017
-Alaska,45,0,2017
-California,42,0,2017
-Hawaii,61,0,2017
-Oregon,N,1,2017
-Washington,N,0,2017
-Territories,74,0,2017
-American Samoa,N,0,2017
-Commonwealth of Northern Mariana Islands,0,0,2017
-Guam,1,0,2017
-Puerto Rico,73,0,2017
-U.S. Virgin Islands,0,0,2017
-United States,8201,6,2018
-New England,933,0,2018
-Connecticut,179,0,2018
-Maine,252,0,2018
-Massachusetts,289,0,2018
-New Hampshire,98,0,2018
-Rhode Island,66,0,2018
-Vermont,49,0,2018
-Middle Atlantic,947,1,2018
-New Jersey,376,0,2018
-New York (excluding New York City),N,1,2018
-New York City,0,0,2018
-Pennsylvania,571,0,2018
-East North Central,1765,1,2018
-Illinois,394,0,2018
-Indiana,172,0,2018
-Michigan,434,1,2018
-Ohio,476,0,2018
-Wisconsin,289,0,2018
-West North Central,613,0,2018
-Iowa,N,0,2018
-Kansas,0,0,2018
-Minnesota,324,0,2018
-Missouri,168,0,2018
-Nebraska,42,0,2018
-North Dakota,48,0,2018
-South Dakota,31,0,2018
-South Atlantic,1682,1,2018
-Delaware,32,0,2018
-District of Columbia,31,0,2018
-Florida,853,1,2018
-Georgia,262,0,2018
-Maryland,N,0,2018
-North Carolina,N,0,2018
-South Carolina,152,0,2018
-Virginia,352,0,2018
-West Virginia,N,0,2018
-East South Central,153,0,2018
-Alabama,78,0,2018
-Kentucky,34,0,2018
-Mississippi,41,0,2018
-Tennessee,N,0,2018
-West South Central,1147,0,2018
-Arkansas,72,0,2018
-Louisiana,103,0,2018
-Oklahoma,N,0,2018
-Texas,972,0,2018
-Mountain,848,2,2018
-Arizona,245,0,2018
-Colorado,269,1,2018
-Idaho,N,0,2018
-Montana,57,1,2018
-Nevada,N,0,2018
-New Mexico,60,0,2018
-Utah,196,0,2018
-Wyoming,21,0,2018
-Pacific,113,1,2018
-Alaska,34,0,2018
-California,40,1,2018
-Hawaii,39,0,2018
-Oregon,N,0,2018
-Washington,N,0,2018
-Territories,89,0,2018
-American Samoa,N,0,2018
-Commonwealth of Northern Mariana Islands,0,0,2018
-Guam,15,0,2018
-Puerto Rico,74,0,2018
-U.S. Virgin Islands,0,0,2018
-"U.S. Residents, excluding U.S. Territories",8297,6,2019
-New England,647,0,2019
-Connecticut,117,0,2019
-Maine,93,0,2019
-Massachusetts,301,0,2019
-New Hampshire,26,0,2019
-Rhode Island,64,0,2019
-Vermont,46,0,2019
-Middle Atlantic,846,2,2019
-New Jersey,377,1,2019
-New York (excluding New York City),N,1,2019
-New York City,0,0,2019
-Pennsylvania,469,0,2019
-East North Central,1751,0,2019
-Illinois,399,0,2019
-Indiana,218,0,2019
-Michigan,410,0,2019
-Ohio,412,0,2019
-Wisconsin,312,0,2019
-West North Central,644,0,2019
-Iowa,N,0,2019
-Kansas,0,0,2019
-Minnesota,366,0,2019
-Missouri,168,0,2019
-Nebraska,54,0,2019
-North Dakota,30,0,2019
-South Dakota,26,0,2019
-South Atlantic,1826,2,2019
-Delaware,28,0,2019
-District of Columbia,30,0,2019
-Florida,983,1,2019
-Georgia,233,0,2019
-Maryland,N,1,2019
-North Carolina,N,0,2019
-South Carolina,152,0,2019
-Virginia,400,0,2019
-West Virginia,N,0,2019
-East South Central,206,1,2019
-Alabama,92,0,2019
-Kentucky,57,0,2019
-Mississippi,57,1,2019
-Tennessee,N,0,2019
-West South Central,1411,0,2019
-Arkansas,119,0,2019
-Louisiana,67,0,2019
-Oklahoma,N,0,2019
-Texas,1225,0,2019
-Mountain,849,0,2019
-Arizona,307,0,2019
-Colorado,250,0,2019
-Idaho,N,0,2019
-Montana,47,0,2019
-Nevada,N,0,2019
-New Mexico,73,0,2019
-Utah,163,0,2019
-Wyoming,9,0,2019
-Pacific,117,1,2019
-Alaska,36,0,2019
-California,39,0,2019
-Hawaii,42,0,2019
-Oregon,N,1,2019
-Washington,N,0,2019
-U.S. Territories,111,0,2019
-American Samoa,N,0,2019
-Commonwealth of Northern Mariana Islands,0,0,2019
-Guam,18,0,2019
-Puerto Rico,83,0,2019
-U.S. Virgin Islands,10,0,2019
+Washington,N,—,2019
+U.S. Territories,111,—,2019
+American Samoa,N,—,2019
+Commonwealth of Northern Mariana Islands,—,—,2019
+Guam,18,—,2019
+Puerto Rico,83,—,2019
+U.S. Virgin Islands,10,—,2019
