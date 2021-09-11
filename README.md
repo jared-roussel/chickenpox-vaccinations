@@ -18,12 +18,13 @@ https://wonder.cdc.gov/nndss/static/2019/annual/2019-table2r.html
 
 Abbrevations:
 N - Not reportable
+
 NReq - Not required
 
 In addition, we identified vaccination coverage and exemptions among kindergartners (2016-2019):
 https://data.cdc.gov/Vaccinations/Vaccination-Coverage-and-Exemptions-among-Kinderga/ijqb-a7ye/data
 
-**Extract and Transform | Types of Data Wrangling Performed**
+**Extract and Transform | Types of Data Wrangling Performed** (main_final.ipynb)
 
 **Morbidity and Mortality Data**
   1. To obtain the morbidity and mortality data, we used webscraping to download data for the morbidity and mortality of Varicella each year (2016-2019) using beautiful soup.
@@ -36,8 +37,10 @@ https://data.cdc.gov/Vaccinations/Vaccination-Coverage-and-Exemptions-among-Kind
   1. For the vaccine exemption, we downloaded the CSV and imported this to Pandas and Jupyter Notebook.  
   2. We filtered for Varicella and Exemption and removed "randomed survey" on basis of reporting.  
   3. We then filtered from 2016-2019 by look at the beginning of the reported school year given the downloaded data.  
-  4. We then exported this into a CSV.
+  4. We then exported this into a CSV (vaccine_exemption.csv)
 
-**Load | Database and ERD**
-
-After the tables were cleaned up to remove the extra columns, we exported them to cvs files. Once the tables were exported, we were then able to import them into sql to do joing. This required some more cleaning in terms of setting data types and column names. Our two tables were then joined into one main table and exported.
+**Load | Database and ERD** (project2sql)
+  1. After CSV export, we created two tables in SQL mirroring the CSV files
+  2. We then imported the CSV files into SQL.  
+  3. We performed innerjoin on year and geography
+  4. Final table was exported.
