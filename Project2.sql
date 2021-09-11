@@ -1,6 +1,6 @@
 DROP TABLE vaccine_exemption;
 CREATE TABLE vaccine_exemption (
-	,Geography VARCHAR
+	Geography VARCHAR
 	,"School Year" VARCHAR
 	,"Exempt Estimate (%) DECIMAL
 	,"Survey Type" VARCHAR
