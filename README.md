@@ -9,8 +9,11 @@ We sought to find the morbidity and mortality of Varicella (Chickenpox) reported
 **Yearly Mortality and Morbidity HTML Tables**
 
 https://wonder.cdc.gov/nndss/static/2016/annual/2016-table2o.html
+
 https://wonder.cdc.gov/nndss/static/2017/annual/2017-table2o.html
+
 https://wonder.cdc.gov/nndss/static/2018/annual/2018-table2o.html
+
 https://wonder.cdc.gov/nndss/static/2019/annual/2019-table2r.html
 
 
