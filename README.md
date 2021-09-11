@@ -16,6 +16,9 @@ https://wonder.cdc.gov/nndss/static/2018/annual/2018-table2o.html
 
 https://wonder.cdc.gov/nndss/static/2019/annual/2019-table2r.html
 
+Abbrevations:
+N - Not reportable
+NReq - Not required
 
 In addition, we identified vaccination coverage and exemptions among kindergartners (2016-2019):
 https://data.cdc.gov/Vaccinations/Vaccination-Coverage-and-Exemptions-among-Kinderga/ijqb-a7ye/data
@@ -27,7 +30,7 @@ https://data.cdc.gov/Vaccinations/Vaccination-Coverage-and-Exemptions-among-Kind
      There are (4) datatables, each with a unique URL. 
   2.  Once extracted, the tables were imported into Pandas and Jupyter Notebook.  
   3. We then dropped other disease reported (e.g. Typhoid Fever), dropped all NULL / NaN values and dropped unncessary columns.  
-  4. All 6 years were then combined and exported into a CSV (chix_cases.csv).
+  4. All 4 years were then combined and exported into a CSV (chix_cases.csv).
 
 **Vaccine Exemption Data**
   1. For the vaccine exemption, we downloaded the CSV and imported this to Pandas and Jupyter Notebook.  
