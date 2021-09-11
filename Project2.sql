@@ -2,9 +2,10 @@ DROP TABLE vaccine_exemption;
 CREATE TABLE vaccine_exemption (
 	,Geography VARCHAR
 	,"School Year" VARCHAR
+	,,"Exempt Estimate (%) DECIMAL
 	,"Survey Type" VARCHAR
 	,"Dose" VARCHAR
-	,"Vaccinated Estimate (%)
+	,"Vaccinated Estimate (%) DECIMAL
 );
 
 SELECT *
